@@ -1,18 +1,20 @@
 from flask import Flask, render_template, request, redirect, session
 from ai.quiz_generator import generate_quiz
 import mysql.connector
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 db = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="rasi13",
-    database="ai_quiz"
+    host=os.getenv("MYSQL_HOST"),
+    user=os.getenv("MYSQL_USER"),
+    password=os.getenv("MYSQL_PASSWORD"),
+    database=os.getenv("MYSQL_DB")
 )
-
 cursor = db.cursor()
 
 app = Flask(__name__)
-app.secret_key = "secret123"
+app.secret_key = os.getenv("SECRET_KEY")
 
 # HOME
 @app.route("/")
