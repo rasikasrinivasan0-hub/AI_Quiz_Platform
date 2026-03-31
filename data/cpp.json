@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "Who developed C++?",
+    "options": ["Bjarne Stroustrup", "Dennis Ritchie", "James Gosling", "Guido van Rossum"],
+    "answer": "Bjarne Stroustrup"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used for output in C++?",
+    "options": ["cout", "printf", "print", "echo"],
+    "answer": "cout"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which header file is used for input/output?",
+    "options": ["iostream", "stdio.h", "conio.h", "string.h"],
+    "answer": "iostream"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for scope resolution?",
+    "options": ["::", ".", "->", ":"],
+    "answer": "::"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to define a class?",
+    "options": ["class", "struct", "object", "define"],
+    "answer": "class"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function is entry point of C++ program?",
+    "options": ["main()", "start()", "init()", "run()"],
+    "answer": "main()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for inheritance?",
+    "options": ["public", "extends", "inherits", "base"],
+    "answer": "public"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used to access members using pointer?",
+    "options": ["->", ".", "::", "*"],
+    "answer": "->"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data type is used for true/false?",
+    "options": ["bool", "int", "char", "float"],
+    "answer": "bool"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for constant variable?",
+    "options": ["const", "final", "static", "define"],
+    "answer": "const"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for input?",
+    "options": ["cin", "scanf", "input", "read"],
+    "answer": "cin"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which loop is used when condition is checked first?",
+    "options": ["while", "do-while", "for", "none"],
+    "answer": "while"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol ends a statement?",
+    "options": [";", ":", ".", ","],
+    "answer": ";"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for addition?",
+    "options": ["+", "-", "*", "/"],
+    "answer": "+"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for function return?",
+    "options": ["return", "break", "exit", "stop"],
+    "answer": "return"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to create object?",
+    "options": ["No keyword needed", "new", "object", "class"],
+    "answer": "No keyword needed"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type stores decimal values?",
+    "options": ["float", "int", "char", "bool"],
+    "answer": "float"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is equality check?",
+    "options": ["==", "=", "!=", ">"],
+    "answer": "=="
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword stops loop?",
+    "options": ["break", "exit", "stop", "end"],
+    "answer": "break"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which container stores multiple values?",
+    "options": ["array", "int", "float", "char"],
+    "answer": "array"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is the output of cout << 5 + 2 * 3;",
+    "options": ["11", "21", "16", "10"],
+    "answer": "11"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which concept supports code reuse?",
+    "options": ["Inheritance", "Encapsulation", "Polymorphism", "Abstraction"],
+    "answer": "Inheritance"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is constructor?",
+    "options": ["Special function called when object created", "Destructor", "Loop", "Pointer"],
+    "answer": "Special function called when object created"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used to define destructor?",
+    "options": ["~", "!", "#", "*"],
+    "answer": "~"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which feature allows multiple functions with same name?",
+    "options": ["Function overloading", "Inheritance", "Encapsulation", "Abstraction"],
+    "answer": "Function overloading"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is encapsulation?",
+    "options": ["Wrapping data and functions", "Inheritance", "Loop", "Pointer"],
+    "answer": "Wrapping data and functions"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used for dynamic memory?",
+    "options": ["new", "malloc", "alloc", "create"],
+    "answer": "new"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator deallocates memory?",
+    "options": ["delete", "free", "remove", "clear"],
+    "answer": "delete"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is polymorphism?",
+    "options": ["Same function different behavior", "Loop", "Array", "Pointer"],
+    "answer": "Same function different behavior"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which access specifier is default in class?",
+    "options": ["private", "public", "protected", "none"],
+    "answer": "private"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is reference variable?",
+    "options": ["Alias to variable", "Pointer", "Array", "Function"],
+    "answer": "Alias to variable"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator is used for address?",
+    "options": ["&", "*", "%", "#"],
+    "answer": "&"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which header for string?",
+    "options": ["string", "iostream", "stdio.h", "math.h"],
+    "answer": "string"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is inline function?",
+    "options": ["Function expanded inline", "Loop", "Class", "Pointer"],
+    "answer": "Function expanded inline"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator is used for scope?",
+    "options": ["::", ".", "->", "*"],
+    "answer": "::"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword prevents inheritance?",
+    "options": ["final", "const", "static", "stop"],
+    "answer": "final"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which type supports templates?",
+    "options": ["Generic", "Static", "Dynamic", "Constant"],
+    "answer": "Generic"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is virtual function?",
+    "options": ["Runtime polymorphism", "Compile error", "Loop", "Pointer"],
+    "answer": "Runtime polymorphism"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword for base class pointer?",
+    "options": ["virtual", "override", "base", "super"],
+    "answer": "virtual"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator used for modulo?",
+    "options": ["%", "/", "*", "+"],
+    "answer": "%"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is diamond problem?",
+    "options": ["Multiple inheritance ambiguity", "Syntax error", "Runtime error", "Memory leak"],
+    "answer": "Multiple inheritance ambiguity"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which concept solves diamond problem?",
+    "options": ["Virtual inheritance", "Encapsulation", "Abstraction", "Polymorphism"],
+    "answer": "Virtual inheritance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is pure virtual function?",
+    "options": ["Function with =0", "Inline function", "Static function", "Private function"],
+    "answer": "Function with =0"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which class cannot be instantiated?",
+    "options": ["Abstract class", "Base class", "Derived class", "Static class"],
+    "answer": "Abstract class"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is STL?",
+    "options": ["Standard Template Library", "System Template Library", "Static Type Library", "Simple Template Logic"],
+    "answer": "Standard Template Library"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which container is dynamic array?",
+    "options": ["vector", "array", "list", "map"],
+    "answer": "vector"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is iterator?",
+    "options": ["Pointer-like object", "Function", "Class", "Loop"],
+    "answer": "Pointer-like object"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function returns size of vector?",
+    "options": ["size()", "length()", "count()", "getSize()"],
+    "answer": "size()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is exception handling keyword?",
+    "options": ["try", "catch", "throw", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword throws exception?",
+    "options": ["throw", "try", "catch", "error"],
+    "answer": "throw"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which block handles exception?",
+    "options": ["catch", "try", "throw", "handle"],
+    "answer": "catch"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is RAII?",
+    "options": ["Resource Acquisition Is Initialization", "Memory allocation", "Loop control", "Pointer concept"],
+    "answer": "Resource Acquisition Is Initialization"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which smart pointer deletes automatically?",
+    "options": ["unique_ptr", "raw pointer", "void pointer", "int pointer"],
+    "answer": "unique_ptr"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword disables copy?",
+    "options": ["delete", "remove", "free", "stop"],
+    "answer": "delete"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is move semantics?",
+    "options": ["Transfer ownership", "Copy data", "Delete data", "Loop"],
+    "answer": "Transfer ownership"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which operator overloads assignment?",
+    "options": ["=", "+", "-", "*"],
+    "answer": "="
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function is entry for template?",
+    "options": ["template", "class", "define", "macro"],
+    "answer": "template"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is lambda expression?",
+    "options": ["Anonymous function", "Class", "Pointer", "Loop"],
+    "answer": "Anonymous function"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword captures variables in lambda?",
+    "options": ["[]", "()", "{}", "<>"],
+    "answer": "[]"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which feature avoids memory leak?",
+    "options": ["Smart pointers", "Raw pointers", "Arrays", "Loops"],
+    "answer": "Smart pointers"
+  }
+]

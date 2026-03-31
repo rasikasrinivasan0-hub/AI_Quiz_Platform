@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is cloud computing?",
+    "options": ["Delivery of computing services over internet", "Local storage", "Hardware device", "Programming"],
+    "answer": "Delivery of computing services over internet"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is a cloud provider?",
+    "options": ["AWS", "Windows", "Linux", "Python"],
+    "answer": "AWS"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does IaaS stand for?",
+    "options": ["Infrastructure as a Service", "Internet as a Service", "Integration as a Service", "Instance as a Service"],
+    "answer": "Infrastructure as a Service"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does PaaS stand for?",
+    "options": ["Platform as a Service", "Program as a Service", "Process as a Service", "Protocol as a Service"],
+    "answer": "Platform as a Service"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does SaaS stand for?",
+    "options": ["Software as a Service", "Storage as a Service", "System as a Service", "Server as a Service"],
+    "answer": "Software as a Service"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is SaaS example?",
+    "options": ["Google Docs", "AWS EC2", "Azure VM", "Docker"],
+    "answer": "Google Docs"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is IaaS example?",
+    "options": ["AWS EC2", "Google Docs", "Gmail", "Dropbox"],
+    "answer": "AWS EC2"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is PaaS example?",
+    "options": ["Google App Engine", "Google Docs", "Dropbox", "Gmail"],
+    "answer": "Google App Engine"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is cloud storage?",
+    "options": ["Store data online", "Local storage", "RAM", "Cache"],
+    "answer": "Store data online"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is virtualization?",
+    "options": ["Create virtual machines", "Delete data", "Encrypt", "Sort"],
+    "answer": "Create virtual machines"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is VM?",
+    "options": ["Virtual machine", "Virtual memory", "Volume machine", "None"],
+    "answer": "Virtual machine"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is public cloud?",
+    "options": ["Available to public", "Private use", "Hybrid", "None"],
+    "answer": "Available to public"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is private cloud?",
+    "options": ["Dedicated cloud", "Public", "Hybrid", "None"],
+    "answer": "Dedicated cloud"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is hybrid cloud?",
+    "options": ["Combination cloud", "Public", "Private", "None"],
+    "answer": "Combination cloud"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is scalability?",
+    "options": ["Increase resources", "Decrease", "Delete", "Sort"],
+    "answer": "Increase resources"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is elasticity?",
+    "options": ["Auto scaling", "Manual scaling", "Delete", "Sort"],
+    "answer": "Auto scaling"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data center?",
+    "options": ["Storage facility", "Network", "Protocol", "Device"],
+    "answer": "Storage facility"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is uptime?",
+    "options": ["System availability", "Downtime", "Error", "Crash"],
+    "answer": "System availability"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is SLA?",
+    "options": ["Service Level Agreement", "System Level Access", "Service Logic Access", "None"],
+    "answer": "Service Level Agreement"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is multi-tenancy?",
+    "options": ["Multiple users share", "Single user", "No user", "None"],
+    "answer": "Multiple users share"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is load balancing?",
+    "options": ["Distribute traffic", "Increase load", "Delete", "Sort"],
+    "answer": "Distribute traffic"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is CDN?",
+    "options": ["Content Delivery Network", "Control Data Network", "Core Data Network", "None"],
+    "answer": "Content Delivery Network"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is container?",
+    "options": ["Lightweight virtualization", "VM", "OS", "Process"],
+    "answer": "Lightweight virtualization"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Docker?",
+    "options": ["Container platform", "VM", "OS", "Protocol"],
+    "answer": "Container platform"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Kubernetes?",
+    "options": ["Container orchestration", "VM", "OS", "Protocol"],
+    "answer": "Container orchestration"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is serverless?",
+    "options": ["No server management", "No server", "Local server", "None"],
+    "answer": "No server management"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is FaaS?",
+    "options": ["Function as a Service", "File as a Service", "Fast as a Service", "None"],
+    "answer": "Function as a Service"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cloud security?",
+    "options": ["Protect cloud systems", "Delete data", "Sort data", "None"],
+    "answer": "Protect cloud systems"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is IAM?",
+    "options": ["Identity and Access Management", "Internet Access Model", "Internal Access Mode", "None"],
+    "answer": "Identity and Access Management"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is auto scaling?",
+    "options": ["Automatic resource scaling", "Manual scaling", "Delete", "Sort"],
+    "answer": "Automatic resource scaling"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is region?",
+    "options": ["Geographic location", "Server", "VM", "Protocol"],
+    "answer": "Geographic location"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is availability zone?",
+    "options": ["Isolated location", "Server", "VM", "Protocol"],
+    "answer": "Isolated location"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is edge computing?",
+    "options": ["Process near user", "Cloud center", "Server", "VM"],
+    "answer": "Process near user"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is backup?",
+    "options": ["Copy data", "Delete data", "Encrypt", "Sort"],
+    "answer": "Copy data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is disaster recovery?",
+    "options": ["Recover data", "Delete data", "Sort", "Encrypt"],
+    "answer": "Recover data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is object storage?",
+    "options": ["Store objects", "Block storage", "File storage", "None"],
+    "answer": "Store objects"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is block storage?",
+    "options": ["Fixed blocks", "Object storage", "File storage", "None"],
+    "answer": "Fixed blocks"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is file storage?",
+    "options": ["File system", "Block", "Object", "None"],
+    "answer": "File system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is API gateway?",
+    "options": ["Manage APIs", "VM", "Server", "Protocol"],
+    "answer": "Manage APIs"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is monitoring?",
+    "options": ["Track performance", "Delete", "Encrypt", "Sort"],
+    "answer": "Track performance"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is cloud bursting?",
+    "options": ["Scale to public cloud", "Delete data", "Encrypt", "Sort"],
+    "answer": "Scale to public cloud"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is multi-cloud?",
+    "options": ["Multiple providers", "Single provider", "Private cloud", "None"],
+    "answer": "Multiple providers"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is vendor lock-in?",
+    "options": ["Dependency on provider", "Freedom", "Security", "None"],
+    "answer": "Dependency on provider"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CAP theorem?",
+    "options": ["Consistency Availability Partition", "Control Access Protocol", "Cloud Access Policy", "None"],
+    "answer": "Consistency Availability Partition"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is eventual consistency?",
+    "options": ["Data sync over time", "Immediate", "None", "Error"],
+    "answer": "Data sync over time"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is strong consistency?",
+    "options": ["Immediate sync", "Delayed", "None", "Error"],
+    "answer": "Immediate sync"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is autoscaling group?",
+    "options": ["Group of scalable instances", "Single instance", "VM", "None"],
+    "answer": "Group of scalable instances"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is spot instance?",
+    "options": ["Low-cost instance", "High cost", "VM", "None"],
+    "answer": "Low-cost instance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is reserved instance?",
+    "options": ["Prepaid instance", "On-demand", "VM", "None"],
+    "answer": "Prepaid instance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is cloud migration?",
+    "options": ["Move to cloud", "Delete data", "Encrypt", "Sort"],
+    "answer": "Move to cloud"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is rehosting?",
+    "options": ["Lift and shift", "Refactor", "Rebuild", "None"],
+    "answer": "Lift and shift"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is refactoring?",
+    "options": ["Modify app", "Lift", "Rebuild", "None"],
+    "answer": "Modify app"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is blue-green deployment?",
+    "options": ["Zero downtime deploy", "Stop deploy", "Delete", "None"],
+    "answer": "Zero downtime deploy"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is canary deployment?",
+    "options": ["Gradual rollout", "Full deploy", "Delete", "None"],
+    "answer": "Gradual rollout"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is service mesh?",
+    "options": ["Manage microservices", "VM", "Server", "None"],
+    "answer": "Manage microservices"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is observability?",
+    "options": ["Monitor system deeply", "Delete", "Encrypt", "Sort"],
+    "answer": "Monitor system deeply"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is cost optimization?",
+    "options": ["Reduce cloud cost", "Increase", "Delete", "Sort"],
+    "answer": "Reduce cloud cost"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is serverless scaling?",
+    "options": ["Auto scale functions", "Manual", "None", "Error"],
+    "answer": "Auto scale functions"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is cloud-native?",
+    "options": ["Built for cloud", "Local app", "Desktop", "None"],
+    "answer": "Built for cloud"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is distributed system?",
+    "options": ["Multiple systems work together", "Single system", "None", "Error"],
+    "answer": "Multiple systems work together"
+  }
+]

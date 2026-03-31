@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "Who developed R language?",
+    "options": ["Ross Ihaka and Robert Gentleman", "Dennis Ritchie", "James Gosling", "Guido van Rossum"],
+    "answer": "Ross Ihaka and Robert Gentleman"
+  },
+  {
+    "difficulty": "easy",
+    "question": "R is mainly used for?",
+    "options": ["Statistical computing", "Web development", "Game development", "System programming"],
+    "answer": "Statistical computing"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used for assignment in R?",
+    "options": ["<-", "=", ":", "->"],
+    "answer": "<-"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function displays output in R?",
+    "options": ["print()", "cout", "printf()", "display()"],
+    "answer": "print()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data type is used for text?",
+    "options": ["character", "int", "logical", "numeric"],
+    "answer": "character"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function reads CSV file?",
+    "options": ["read.csv()", "read()", "input()", "scan()"],
+    "answer": "read.csv()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function installs packages?",
+    "options": ["install.packages()", "library()", "require()", "load()"],
+    "answer": "install.packages()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function loads a package?",
+    "options": ["library()", "install()", "loadpkg()", "requirepkg()"],
+    "answer": "library()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data structure is one-dimensional?",
+    "options": ["vector", "matrix", "list", "data frame"],
+    "answer": "vector"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword represents TRUE/FALSE?",
+    "options": ["logical", "boolean", "bool", "flag"],
+    "answer": "logical"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function returns length of vector?",
+    "options": ["length()", "size()", "count()", "len()"],
+    "answer": "length()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for addition?",
+    "options": ["+", "-", "*", "/"],
+    "answer": "+"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function combines elements?",
+    "options": ["c()", "combine()", "merge()", "append()"],
+    "answer": "c()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data type is numeric?",
+    "options": ["numeric", "character", "logical", "factor"],
+    "answer": "numeric"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function creates sequence?",
+    "options": ["seq()", "range()", "list()", "array()"],
+    "answer": "seq()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function generates random numbers?",
+    "options": ["runif()", "random()", "rand()", "gen()"],
+    "answer": "runif()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function finds mean?",
+    "options": ["mean()", "avg()", "sum()", "median()"],
+    "answer": "mean()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function finds sum?",
+    "options": ["sum()", "add()", "total()", "plus()"],
+    "answer": "sum()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function finds maximum?",
+    "options": ["max()", "maximum()", "top()", "largest()"],
+    "answer": "max()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function finds minimum?",
+    "options": ["min()", "minimum()", "lowest()", "bottom()"],
+    "answer": "min()"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is the output of print(5 + 2 * 3)?",
+    "options": ["11", "21", "16", "10"],
+    "answer": "11"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which structure stores heterogeneous data?",
+    "options": ["list", "vector", "matrix", "array"],
+    "answer": "list"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function binds rows?",
+    "options": ["rbind()", "cbind()", "bind()", "merge()"],
+    "answer": "rbind()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function binds columns?",
+    "options": ["cbind()", "rbind()", "merge()", "combine()"],
+    "answer": "cbind()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is data frame?",
+    "options": ["Table-like structure", "Vector", "List", "Matrix"],
+    "answer": "Table-like structure"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function checks structure?",
+    "options": ["str()", "structure()", "type()", "check()"],
+    "answer": "str()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function summarizes data?",
+    "options": ["summary()", "describe()", "info()", "stats()"],
+    "answer": "summary()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator is logical AND?",
+    "options": ["&", "&&", "|", "||"],
+    "answer": "&"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator is logical OR?",
+    "options": ["|", "&", "&&", "!"],
+    "answer": "|"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function sorts data?",
+    "options": ["sort()", "order()", "arrange()", "rank()"],
+    "answer": "sort()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function returns unique values?",
+    "options": ["unique()", "distinct()", "uniq()", "single()"],
+    "answer": "unique()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function finds median?",
+    "options": ["median()", "mean()", "mid()", "center()"],
+    "answer": "median()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function finds standard deviation?",
+    "options": ["sd()", "std()", "var()", "deviation()"],
+    "answer": "sd()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function merges datasets?",
+    "options": ["merge()", "join()", "combine()", "link()"],
+    "answer": "merge()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function removes NA values?",
+    "options": ["na.omit()", "removeNA()", "omit()", "clean()"],
+    "answer": "na.omit()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function checks NA?",
+    "options": ["is.na()", "checkNA()", "na()", "missing()"],
+    "answer": "is.na()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function repeats values?",
+    "options": ["rep()", "repeat()", "loop()", "copy()"],
+    "answer": "rep()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function applies function to vector?",
+    "options": ["apply()", "map()", "loop()", "each()"],
+    "answer": "apply()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function creates factors?",
+    "options": ["factor()", "as.factor()", "convert()", "categorize()"],
+    "answer": "factor()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function returns dimensions?",
+    "options": ["dim()", "size()", "shape()", "length()"],
+    "answer": "dim()"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is vector recycling?",
+    "options": ["Short vector reused", "Deleting values", "Sorting vector", "Merging vector"],
+    "answer": "Short vector reused"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function applies over list?",
+    "options": ["lapply()", "apply()", "sapply()", "tapply()"],
+    "answer": "lapply()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function simplifies output?",
+    "options": ["sapply()", "lapply()", "apply()", "tapply()"],
+    "answer": "sapply()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function applies over margins?",
+    "options": ["apply()", "lapply()", "sapply()", "tapply()"],
+    "answer": "apply()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function applies over subsets?",
+    "options": ["tapply()", "apply()", "lapply()", "sapply()"],
+    "answer": "tapply()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is lazy evaluation?",
+    "options": ["Evaluate when needed", "Immediate evaluation", "Compile time", "Runtime error"],
+    "answer": "Evaluate when needed"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is closure in R?",
+    "options": ["Function with environment", "Loop", "Vector", "List"],
+    "answer": "Function with environment"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function loads RData?",
+    "options": ["load()", "read()", "import()", "open()"],
+    "answer": "load()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function saves workspace?",
+    "options": ["save()", "write()", "store()", "export()"],
+    "answer": "save()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which package is for plotting?",
+    "options": ["ggplot2", "plotly", "graphics", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is data.table?",
+    "options": ["Enhanced data frame", "Vector", "Matrix", "List"],
+    "answer": "Enhanced data frame"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which operator pipes data?",
+    "options": ["%>%", "->", "<-", "::"],
+    "answer": "%>%"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which package provides pipe operator?",
+    "options": ["magrittr", "dplyr", "ggplot2", "tidyr"],
+    "answer": "magrittr"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is tidyverse?",
+    "options": ["Collection of packages", "Single package", "Function", "Loop"],
+    "answer": "Collection of packages"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function groups data?",
+    "options": ["group_by()", "arrange()", "filter()", "select()"],
+    "answer": "group_by()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function filters rows?",
+    "options": ["filter()", "select()", "mutate()", "arrange()"],
+    "answer": "filter()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function selects columns?",
+    "options": ["select()", "filter()", "mutate()", "arrange()"],
+    "answer": "select()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function creates new column?",
+    "options": ["mutate()", "select()", "filter()", "group_by()"],
+    "answer": "mutate()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function arranges rows?",
+    "options": ["arrange()", "filter()", "select()", "mutate()"],
+    "answer": "arrange()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function summarizes grouped data?",
+    "options": ["summarise()", "group_by()", "mutate()", "filter()"],
+    "answer": "summarise()"
+  }
+]

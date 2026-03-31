@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is a set?",
+    "options": ["Collection of distinct elements", "Sequence of numbers", "Function", "Matrix"],
+    "answer": "Collection of distinct elements"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol represents union?",
+    "options": ["∪", "∩", "⊂", "⊆"],
+    "answer": "∪"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol represents intersection?",
+    "options": ["∩", "∪", "⊂", "⊆"],
+    "answer": "∩"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is empty set?",
+    "options": ["Set with no elements", "Set with one element", "Infinite set", "Universal set"],
+    "answer": "Set with no elements"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is cardinality?",
+    "options": ["Number of elements", "Subset", "Relation", "Function"],
+    "answer": "Number of elements"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which logic operator represents AND?",
+    "options": ["∧", "∨", "¬", "→"],
+    "answer": "∧"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which logic operator represents OR?",
+    "options": ["∨", "∧", "¬", "→"],
+    "answer": "∨"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is a proposition?",
+    "options": ["Statement with truth value", "Set", "Matrix", "Graph"],
+    "answer": "Statement with truth value"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is tautology?",
+    "options": ["Always true", "Always false", "Sometimes true", "Invalid"],
+    "answer": "Always true"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is contradiction?",
+    "options": ["Always false", "Always true", "Sometimes true", "Valid"],
+    "answer": "Always false"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is a function?",
+    "options": ["Mapping between sets", "Relation", "Graph", "Matrix"],
+    "answer": "Mapping between sets"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is relation?",
+    "options": ["Subset of Cartesian product", "Function", "Matrix", "Graph"],
+    "answer": "Subset of Cartesian product"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is graph?",
+    "options": ["Vertices and edges", "Matrix", "Set", "Function"],
+    "answer": "Vertices and edges"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is tree?",
+    "options": ["Acyclic connected graph", "Cycle graph", "Directed graph", "Matrix"],
+    "answer": "Acyclic connected graph"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is permutation?",
+    "options": ["Arrangement", "Selection", "Set", "Function"],
+    "answer": "Arrangement"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is combination?",
+    "options": ["Selection", "Arrangement", "Function", "Graph"],
+    "answer": "Selection"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is universal set?",
+    "options": ["All elements", "Empty set", "Subset", "Relation"],
+    "answer": "All elements"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol represents NOT?",
+    "options": ["¬", "∧", "∨", "→"],
+    "answer": "¬"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is degree of vertex?",
+    "options": ["Edges connected", "Vertices", "Path", "Cycle"],
+    "answer": "Edges connected"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is binary tree?",
+    "options": ["Max 2 children", "Unlimited children", "No child", "Graph"],
+    "answer": "Max 2 children"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is Cartesian product?",
+    "options": ["Set of ordered pairs", "Union", "Intersection", "Subset"],
+    "answer": "Set of ordered pairs"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is equivalence relation?",
+    "options": ["Reflexive symmetric transitive", "Only reflexive", "Only symmetric", "Only transitive"],
+    "answer": "Reflexive symmetric transitive"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is partial order?",
+    "options": ["Reflexive antisymmetric transitive", "Symmetric", "Only reflexive", "Only transitive"],
+    "answer": "Reflexive antisymmetric transitive"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is injective function?",
+    "options": ["One-to-one", "Onto", "Many-to-one", "None"],
+    "answer": "One-to-one"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is surjective function?",
+    "options": ["Onto", "One-to-one", "None", "Partial"],
+    "answer": "Onto"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is bijection?",
+    "options": ["One-to-one and onto", "Only one-to-one", "Only onto", "None"],
+    "answer": "One-to-one and onto"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is recurrence relation?",
+    "options": ["Defines sequence", "Function", "Graph", "Matrix"],
+    "answer": "Defines sequence"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is adjacency matrix?",
+    "options": ["Graph representation", "Set", "Relation", "Function"],
+    "answer": "Graph representation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is path?",
+    "options": ["Sequence of vertices", "Edge", "Cycle", "Node"],
+    "answer": "Sequence of vertices"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cycle?",
+    "options": ["Closed path", "Open path", "Tree", "Forest"],
+    "answer": "Closed path"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is connected graph?",
+    "options": ["All vertices reachable", "Disconnected", "Tree", "Cycle"],
+    "answer": "All vertices reachable"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is bipartite graph?",
+    "options": ["Two sets of vertices", "One set", "Cycle", "Tree"],
+    "answer": "Two sets of vertices"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is spanning tree?",
+    "options": ["Connect all vertices", "Cycle", "Disconnected", "Matrix"],
+    "answer": "Connect all vertices"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Boolean algebra?",
+    "options": ["Logic algebra", "Numbers", "Graph", "Set"],
+    "answer": "Logic algebra"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is De Morgan’s law?",
+    "options": ["Complement rule", "Union rule", "Intersection", "None"],
+    "answer": "Complement rule"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is truth table?",
+    "options": ["Truth values table", "Graph", "Matrix", "Set"],
+    "answer": "Truth values table"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is degree sum formula?",
+    "options": ["2E", "E", "V", "None"],
+    "answer": "2E"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is complement of set?",
+    "options": ["Elements not in set", "Union", "Intersection", "Subset"],
+    "answer": "Elements not in set"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is reflexive relation?",
+    "options": ["(a,a) exists", "Symmetric", "Transitive", "None"],
+    "answer": "(a,a) exists"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is symmetric relation?",
+    "options": ["(a,b)->(b,a)", "Reflexive", "Transitive", "None"],
+    "answer": "(a,b)->(b,a)"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is inclusion-exclusion principle?",
+    "options": ["Counting overlapping sets", "Sorting", "Searching", "Graph"],
+    "answer": "Counting overlapping sets"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is pigeonhole principle?",
+    "options": ["More objects than boxes", "Equal distribution", "Sorting", "Searching"],
+    "answer": "More objects than boxes"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is planar graph?",
+    "options": ["No edge crossing", "With crossing", "Tree", "Cycle"],
+    "answer": "No edge crossing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Euler path?",
+    "options": ["Visit edges once", "Visit vertices once", "Cycle", "Tree"],
+    "answer": "Visit edges once"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Euler circuit?",
+    "options": ["Closed Euler path", "Open path", "Tree", "Graph"],
+    "answer": "Closed Euler path"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Hamiltonian path?",
+    "options": ["Visit vertices once", "Visit edges", "Cycle", "Tree"],
+    "answer": "Visit vertices once"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Hamiltonian cycle?",
+    "options": ["Closed Hamiltonian path", "Open path", "Tree", "Graph"],
+    "answer": "Closed Hamiltonian path"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is chromatic number?",
+    "options": ["Minimum colors", "Maximum colors", "Vertices", "Edges"],
+    "answer": "Minimum colors"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is isomorphic graph?",
+    "options": ["Same structure", "Different graph", "Tree", "Cycle"],
+    "answer": "Same structure"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is generating function?",
+    "options": ["Series representation", "Graph", "Matrix", "Set"],
+    "answer": "Series representation"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is recurrence solving?",
+    "options": ["Find formula", "Graph", "Matrix", "Set"],
+    "answer": "Find formula"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Boolean identity?",
+    "options": ["Algebra rule", "Graph", "Matrix", "Set"],
+    "answer": "Algebra rule"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CNF?",
+    "options": ["Conjunctive normal form", "Disjunctive", "Graph", "Set"],
+    "answer": "Conjunctive normal form"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is DNF?",
+    "options": ["Disjunctive normal form", "Conjunctive", "Graph", "Set"],
+    "answer": "Disjunctive normal form"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is transitive closure?",
+    "options": ["Reachability relation", "Graph", "Set", "Matrix"],
+    "answer": "Reachability relation"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Warshall algorithm?",
+    "options": ["Transitive closure algorithm", "Sorting", "Searching", "Graph"],
+    "answer": "Transitive closure algorithm"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is spanning tree count in complete graph?",
+    "options": ["n^(n-2)", "n!", "2^n", "n^2"],
+    "answer": "n^(n-2)"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is cut-set?",
+    "options": ["Edges removal disconnects graph", "Vertices", "Cycle", "Tree"],
+    "answer": "Edges removal disconnects graph"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is matching?",
+    "options": ["Set of edges without common vertices", "Cycle", "Tree", "Path"],
+    "answer": "Set of edges without common vertices"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Hall’s theorem?",
+    "options": ["Matching condition", "Graph", "Set", "Matrix"],
+    "answer": "Matching condition"
+  }
+]

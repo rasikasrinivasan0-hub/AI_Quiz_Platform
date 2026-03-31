@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What does AI stand for?",
+    "options": ["Artificial Intelligence", "Automated Intelligence", "Advanced Integration", "Applied Informatics"],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Who is known as the father of AI?",
+    "options": ["John McCarthy", "Alan Turing", "Marvin Minsky", "Elon Musk"],
+    "answer": "John McCarthy"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which field does AI belong to?",
+    "options": ["Computer Science", "Biology", "Physics", "Chemistry"],
+    "answer": "Computer Science"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which language is commonly used in AI?",
+    "options": ["Python", "HTML", "CSS", "SQL"],
+    "answer": "Python"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is machine learning?",
+    "options": ["Learning from data", "Manual coding", "Hardware design", "Networking"],
+    "answer": "Learning from data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type of learning uses labeled data?",
+    "options": ["Supervised learning", "Unsupervised learning", "Reinforcement learning", "Semi-supervised"],
+    "answer": "Supervised learning"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type of learning uses no labels?",
+    "options": ["Unsupervised learning", "Supervised learning", "Reinforcement learning", "Deep learning"],
+    "answer": "Unsupervised learning"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data?",
+    "options": ["Information", "Code", "Hardware", "Network"],
+    "answer": "Information"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which algorithm is used for classification?",
+    "options": ["Decision Tree", "Sorting", "Searching", "Hashing"],
+    "answer": "Decision Tree"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which algorithm is used for clustering?",
+    "options": ["K-Means", "Binary Search", "Quick Sort", "DFS"],
+    "answer": "K-Means"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is neural network?",
+    "options": ["Model inspired by brain", "Database", "Network cable", "Compiler"],
+    "answer": "Model inspired by brain"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is dataset?",
+    "options": ["Collection of data", "Single value", "Algorithm", "Function"],
+    "answer": "Collection of data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is training data?",
+    "options": ["Data used to train model", "Test data", "Random data", "Noise"],
+    "answer": "Data used to train model"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is testing data?",
+    "options": ["Data to evaluate model", "Training data", "Noise", "Random"],
+    "answer": "Data to evaluate model"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is accuracy?",
+    "options": ["Correct predictions", "Speed", "Memory", "Error"],
+    "answer": "Correct predictions"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is AI application?",
+    "options": ["Chatbot", "Keyboard", "Monitor", "Mouse"],
+    "answer": "Chatbot"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is NLP?",
+    "options": ["Natural Language Processing", "Network Logic Processing", "Neural Link Protocol", "Node Learning Process"],
+    "answer": "Natural Language Processing"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which AI field deals with images?",
+    "options": ["Computer Vision", "NLP", "Robotics", "Planning"],
+    "answer": "Computer Vision"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is robotics?",
+    "options": ["Study of robots", "Database", "Network", "Compiler"],
+    "answer": "Study of robots"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which company is known for AI?",
+    "options": ["Google", "Nike", "Coca-Cola", "Adidas"],
+    "answer": "Google"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is overfitting?",
+    "options": ["Model fits training data too well", "Under learning", "Data cleaning", "Feature scaling"],
+    "answer": "Model fits training data too well"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is underfitting?",
+    "options": ["Model too simple", "Too complex", "Perfect fit", "Data error"],
+    "answer": "Model too simple"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which algorithm is supervised?",
+    "options": ["Linear Regression", "K-Means", "Apriori", "PCA"],
+    "answer": "Linear Regression"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which algorithm is unsupervised?",
+    "options": ["K-Means", "Logistic Regression", "SVM", "Decision Tree"],
+    "answer": "K-Means"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is feature?",
+    "options": ["Input variable", "Output", "Model", "Error"],
+    "answer": "Input variable"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is label?",
+    "options": ["Output variable", "Input", "Feature", "Noise"],
+    "answer": "Output variable"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is regression?",
+    "options": ["Predict continuous values", "Classification", "Clustering", "Sorting"],
+    "answer": "Predict continuous values"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is classification?",
+    "options": ["Predict categories", "Numbers", "Clusters", "Sorting"],
+    "answer": "Predict categories"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is confusion matrix?",
+    "options": ["Evaluation table", "Algorithm", "Dataset", "Feature"],
+    "answer": "Evaluation table"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is precision?",
+    "options": ["Correct positive predictions", "All predictions", "Errors", "Speed"],
+    "answer": "Correct positive predictions"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is recall?",
+    "options": ["Detected positives", "Errors", "Speed", "Accuracy"],
+    "answer": "Detected positives"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which algorithm uses hyperplane?",
+    "options": ["SVM", "KNN", "Naive Bayes", "Decision Tree"],
+    "answer": "SVM"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which algorithm uses neighbors?",
+    "options": ["KNN", "SVM", "Regression", "Tree"],
+    "answer": "KNN"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is deep learning?",
+    "options": ["Neural networks with many layers", "Single layer model", "Sorting", "Searching"],
+    "answer": "Neural networks with many layers"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is activation function?",
+    "options": ["Adds non-linearity", "Sort data", "Store data", "Delete data"],
+    "answer": "Adds non-linearity"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is loss function?",
+    "options": ["Measures error", "Stores data", "Sorts data", "Deletes data"],
+    "answer": "Measures error"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is gradient descent?",
+    "options": ["Optimization algorithm", "Sorting", "Searching", "Clustering"],
+    "answer": "Optimization algorithm"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is epoch?",
+    "options": ["One training cycle", "Dataset", "Feature", "Model"],
+    "answer": "One training cycle"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is batch size?",
+    "options": ["Number of samples per step", "Dataset size", "Model size", "Feature size"],
+    "answer": "Number of samples per step"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is bias?",
+    "options": ["Constant added", "Error", "Feature", "Dataset"],
+    "answer": "Constant added"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is vanishing gradient?",
+    "options": ["Gradient becomes very small", "Gradient large", "Error high", "Data missing"],
+    "answer": "Gradient becomes very small"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is exploding gradient?",
+    "options": ["Gradient grows large", "Gradient small", "Error low", "Data missing"],
+    "answer": "Gradient grows large"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which network is used for images?",
+    "options": ["CNN", "RNN", "ANN", "DNN"],
+    "answer": "CNN"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which network is used for sequences?",
+    "options": ["RNN", "CNN", "ANN", "DNN"],
+    "answer": "RNN"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is LSTM?",
+    "options": ["Advanced RNN", "CNN type", "Optimizer", "Loss"],
+    "answer": "Advanced RNN"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is attention mechanism?",
+    "options": ["Focus on important data", "Sorting", "Deleting", "Indexing"],
+    "answer": "Focus on important data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is transformer?",
+    "options": ["Model using attention", "CNN", "RNN", "Tree"],
+    "answer": "Model using attention"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is reinforcement learning?",
+    "options": ["Learning by reward", "Supervised learning", "Unsupervised", "Clustering"],
+    "answer": "Learning by reward"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Q-learning?",
+    "options": ["RL algorithm", "Sorting", "Searching", "Clustering"],
+    "answer": "RL algorithm"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Markov Decision Process?",
+    "options": ["Decision model", "Sorting", "Searching", "Dataset"],
+    "answer": "Decision model"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is backpropagation?",
+    "options": ["Error propagation", "Forward pass", "Sorting", "Searching"],
+    "answer": "Error propagation"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is regularization?",
+    "options": ["Prevent overfitting", "Increase error", "Delete data", "Sort data"],
+    "answer": "Prevent overfitting"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is dropout?",
+    "options": ["Random neuron removal", "Add neurons", "Sort data", "Delete dataset"],
+    "answer": "Random neuron removal"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is cross-validation?",
+    "options": ["Model evaluation technique", "Training", "Testing", "Sorting"],
+    "answer": "Model evaluation technique"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is hyperparameter?",
+    "options": ["Model configuration", "Feature", "Label", "Dataset"],
+    "answer": "Model configuration"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is grid search?",
+    "options": ["Hyperparameter tuning", "Sorting", "Searching", "Clustering"],
+    "answer": "Hyperparameter tuning"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is ensemble learning?",
+    "options": ["Combine models", "Single model", "Sorting", "Searching"],
+    "answer": "Combine models"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is bagging?",
+    "options": ["Parallel ensemble", "Sequential", "Sorting", "Clustering"],
+    "answer": "Parallel ensemble"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is boosting?",
+    "options": ["Sequential learning", "Parallel", "Sorting", "Searching"],
+    "answer": "Sequential learning"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is explainable AI?",
+    "options": ["Understandable models", "Black box", "Sorting", "Searching"],
+    "answer": "Understandable models"
+  }
+]

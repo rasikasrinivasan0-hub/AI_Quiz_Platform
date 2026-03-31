@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is software engineering?",
+    "options": ["Systematic software development", "Hardware design", "Networking", "Database"],
+    "answer": "Systematic software development"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which model is linear?",
+    "options": ["Waterfall", "Agile", "Spiral", "Iterative"],
+    "answer": "Waterfall"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which model is flexible?",
+    "options": ["Agile", "Waterfall", "V-model", "RAD"],
+    "answer": "Agile"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is SDLC?",
+    "options": ["Software Development Life Cycle", "System Design Level Code", "Software Data Link Cycle", "System Development Logic Cycle"],
+    "answer": "Software Development Life Cycle"
+  },
+  {
+    "difficulty": "easy",
+    "question": "First phase of SDLC?",
+    "options": ["Requirement analysis", "Design", "Testing", "Deployment"],
+    "answer": "Requirement analysis"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which phase designs system?",
+    "options": ["Design", "Testing", "Maintenance", "Requirement"],
+    "answer": "Design"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which phase checks bugs?",
+    "options": ["Testing", "Design", "Deployment", "Requirement"],
+    "answer": "Testing"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which phase delivers product?",
+    "options": ["Deployment", "Design", "Testing", "Requirement"],
+    "answer": "Deployment"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is requirement?",
+    "options": ["User needs", "Code", "Test case", "Design"],
+    "answer": "User needs"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is SRS?",
+    "options": ["Software Requirement Specification", "System Resource Spec", "Software Runtime System", "System Requirement Structure"],
+    "answer": "Software Requirement Specification"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is use case?",
+    "options": ["User interaction scenario", "Code", "Test", "Design"],
+    "answer": "User interaction scenario"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is UML?",
+    "options": ["Unified Modeling Language", "Universal Machine Language", "User Modeling Logic", "Unified Machine Logic"],
+    "answer": "Unified Modeling Language"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which diagram shows structure?",
+    "options": ["Class diagram", "Sequence diagram", "Activity diagram", "Use case diagram"],
+    "answer": "Class diagram"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which diagram shows flow?",
+    "options": ["Activity diagram", "Class diagram", "Object diagram", "State diagram"],
+    "answer": "Activity diagram"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is bug?",
+    "options": ["Error in software", "Feature", "Requirement", "Design"],
+    "answer": "Error in software"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is testing?",
+    "options": ["Finding defects", "Coding", "Designing", "Deploying"],
+    "answer": "Finding defects"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is version control?",
+    "options": ["Track code changes", "Testing", "Deployment", "Design"],
+    "answer": "Track code changes"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tool is version control?",
+    "options": ["Git", "Jira", "Docker", "Postman"],
+    "answer": "Git"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is maintenance?",
+    "options": ["Fix/update software", "Testing", "Design", "Requirement"],
+    "answer": "Fix/update software"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is documentation?",
+    "options": ["Written details", "Code", "Test", "Design"],
+    "answer": "Written details"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is Agile methodology?",
+    "options": ["Iterative development", "Linear model", "Static model", "Hardware design"],
+    "answer": "Iterative development"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Scrum?",
+    "options": ["Agile framework", "Testing tool", "Language", "Database"],
+    "answer": "Agile framework"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is sprint?",
+    "options": ["Short iteration", "Bug", "Code", "Test"],
+    "answer": "Short iteration"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is backlog?",
+    "options": ["Task list", "Code", "Test", "Design"],
+    "answer": "Task list"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is risk?",
+    "options": ["Potential problem", "Bug", "Code", "Test"],
+    "answer": "Potential problem"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is feasibility study?",
+    "options": ["Check project viability", "Testing", "Coding", "Deployment"],
+    "answer": "Check project viability"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is black box testing?",
+    "options": ["Test without code knowledge", "Test code", "Design", "Deploy"],
+    "answer": "Test without code knowledge"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is white box testing?",
+    "options": ["Test internal logic", "User test", "Design", "Deploy"],
+    "answer": "Test internal logic"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is integration testing?",
+    "options": ["Test modules together", "Single module", "System", "Unit"],
+    "answer": "Test modules together"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is unit testing?",
+    "options": ["Test individual unit", "System test", "Integration", "Acceptance"],
+    "answer": "Test individual unit"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is system testing?",
+    "options": ["Test whole system", "Unit", "Integration", "Code"],
+    "answer": "Test whole system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is acceptance testing?",
+    "options": ["User validation", "Developer test", "Unit", "Integration"],
+    "answer": "User validation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DevOps?",
+    "options": ["Dev + Operations", "Testing", "Coding", "Design"],
+    "answer": "Dev + Operations"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is CI/CD?",
+    "options": ["Continuous integration/deployment", "Code integration", "System deployment", "Testing process"],
+    "answer": "Continuous integration/deployment"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is refactoring?",
+    "options": ["Improve code", "Add feature", "Delete code", "Test code"],
+    "answer": "Improve code"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is code review?",
+    "options": ["Check code quality", "Testing", "Deploying", "Design"],
+    "answer": "Check code quality"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is design pattern?",
+    "options": ["Reusable solution", "Code", "Bug", "Test"],
+    "answer": "Reusable solution"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is MVC?",
+    "options": ["Model View Controller", "Main View Code", "Model Variable Control", "View Model Control"],
+    "answer": "Model View Controller"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is coupling?",
+    "options": ["Dependency between modules", "Independence", "Testing", "Coding"],
+    "answer": "Dependency between modules"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cohesion?",
+    "options": ["Internal module strength", "Dependency", "Testing", "Coding"],
+    "answer": "Internal module strength"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is spiral model?",
+    "options": ["Risk-driven model", "Linear", "Iterative only", "Static"],
+    "answer": "Risk-driven model"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is V-model?",
+    "options": ["Verification & validation model", "Agile", "Spiral", "RAD"],
+    "answer": "Verification & validation model"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is RAD?",
+    "options": ["Rapid Application Development", "Random Design", "Real-time App Dev", "Runtime App Dev"],
+    "answer": "Rapid Application Development"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is prototyping?",
+    "options": ["Early model", "Final product", "Testing", "Deployment"],
+    "answer": "Early model"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is risk management?",
+    "options": ["Handle risks", "Testing", "Coding", "Deploying"],
+    "answer": "Handle risks"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is configuration management?",
+    "options": ["Manage changes", "Testing", "Design", "Coding"],
+    "answer": "Manage changes"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is software quality?",
+    "options": ["Meeting requirements", "Coding", "Testing", "Deploying"],
+    "answer": "Meeting requirements"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is reliability?",
+    "options": ["Consistent performance", "Speed", "Memory", "Design"],
+    "answer": "Consistent performance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is scalability?",
+    "options": ["Handle growth", "Testing", "Coding", "Deploying"],
+    "answer": "Handle growth"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is maintainability?",
+    "options": ["Ease of updates", "Speed", "Memory", "Design"],
+    "answer": "Ease of updates"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is usability?",
+    "options": ["Ease of use", "Speed", "Memory", "Design"],
+    "answer": "Ease of use"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is security?",
+    "options": ["Protect system", "Speed", "Memory", "Design"],
+    "answer": "Protect system"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is test case?",
+    "options": ["Test scenario", "Code", "Bug", "Design"],
+    "answer": "Test scenario"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is regression testing?",
+    "options": ["Retest after changes", "Unit test", "Integration", "System"],
+    "answer": "Retest after changes"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is load testing?",
+    "options": ["Test performance under load", "Unit test", "Integration", "Design"],
+    "answer": "Test performance under load"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is stress testing?",
+    "options": ["Test extreme conditions", "Normal test", "Unit", "Integration"],
+    "answer": "Test extreme conditions"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is alpha testing?",
+    "options": ["Internal testing", "User testing", "Production", "Design"],
+    "answer": "Internal testing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is beta testing?",
+    "options": ["User testing", "Internal", "Design", "Coding"],
+    "answer": "User testing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is defect lifecycle?",
+    "options": ["Bug stages", "Code stages", "Test stages", "Design stages"],
+    "answer": "Bug stages"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is software metrics?",
+    "options": ["Measure software quality", "Code", "Test", "Design"],
+    "answer": "Measure software quality"
+  }
+]

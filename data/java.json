@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "Who developed Java?",
+    "options": ["James Gosling", "Dennis Ritchie", "Guido van Rossum", "Bjarne Stroustrup"],
+    "answer": "James Gosling"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Java is a ___ language.",
+    "options": ["Compiled", "Interpreted", "Both", "None"],
+    "answer": "Both"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to define a class?",
+    "options": ["class", "define", "struct", "object"],
+    "answer": "class"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which method is entry point?",
+    "options": ["main()", "start()", "run()", "init()"],
+    "answer": "main()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword creates object?",
+    "options": ["new", "create", "make", "init"],
+    "answer": "new"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type stores integers?",
+    "options": ["int", "float", "double", "char"],
+    "answer": "int"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is single-line comment?",
+    "options": ["//", "#", "--", "/* */"],
+    "answer": "//"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Java is platform ___",
+    "options": ["independent", "dependent", "both", "none"],
+    "answer": "independent"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for inheritance?",
+    "options": ["extends", "implements", "super", "inherits"],
+    "answer": "extends"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Output method?",
+    "options": ["System.out.println()", "print()", "echo()", "display()"],
+    "answer": "System.out.println()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Default value of int?",
+    "options": ["0", "null", "1", "undefined"],
+    "answer": "0"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is not primitive?",
+    "options": ["String", "int", "float", "char"],
+    "answer": "String"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is for loop?",
+    "options": ["for", "loop", "iterate", "repeat"],
+    "answer": "for"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Boolean values?",
+    "options": ["true/false", "yes/no", "1/0", "on/off"],
+    "answer": "true/false"
+  },
+  {
+    "difficulty": "easy",
+    "question": "File extension of Java?",
+    "options": [".java", ".py", ".c", ".txt"],
+    "answer": ".java"
+  },
+  {
+    "difficulty": "easy",
+    "question": "JVM stands for?",
+    "options": ["Java Virtual Machine", "Java Variable Method", "Joint VM", "None"],
+    "answer": "Java Virtual Machine"
+  },
+  {
+    "difficulty": "easy",
+    "question": "JDK stands for?",
+    "options": ["Java Development Kit", "Java Data Kit", "Joint Dev Kit", "None"],
+    "answer": "Java Development Kit"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is addition?",
+    "options": ["+", "-", "*", "/"],
+    "answer": "+"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword exits loop?",
+    "options": ["break", "exit", "stop", "end"],
+    "answer": "break"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword skips iteration?",
+    "options": ["continue", "skip", "pass", "next"],
+    "answer": "continue"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "Which concept allows overriding?",
+    "options": ["Polymorphism", "Encapsulation", "Inheritance", "Abstraction"],
+    "answer": "Polymorphism"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword prevents inheritance?",
+    "options": ["final", "static", "private", "protected"],
+    "answer": "final"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Most restrictive access?",
+    "options": ["private", "public", "protected", "default"],
+    "answer": "private"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which package for Scanner?",
+    "options": ["java.util", "java.io", "java.lang", "java.net"],
+    "answer": "java.util"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Unchecked exception?",
+    "options": ["RuntimeException", "IOException", "SQLException", "FileNotFoundException"],
+    "answer": "RuntimeException"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Interface keyword?",
+    "options": ["interface", "class", "implements", "extends"],
+    "answer": "interface"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Compare strings?",
+    "options": ["equals()", "==", "compare()", "check()"],
+    "answer": "equals()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Loop executes once?",
+    "options": ["do-while", "for", "while", "none"],
+    "answer": "do-while"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Exception handling keyword?",
+    "options": ["try-catch", "throw", "throws", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Collection no duplicates?",
+    "options": ["Set", "List", "Map", "ArrayList"],
+    "answer": "Set"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Wrapper class of int?",
+    "options": ["Integer", "Int", "Number", "Wrapper"],
+    "answer": "Integer"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Keyword for thread?",
+    "options": ["Thread", "Runnable", "Both", "None"],
+    "answer": "Both"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Method overloading?",
+    "options": ["Same name diff params", "Same params", "Diff name", "None"],
+    "answer": "Same name diff params"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Default package?",
+    "options": ["java.lang", "java.io", "java.util", "java.net"],
+    "answer": "java.lang"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Keyword for abstract?",
+    "options": ["abstract", "virtual", "base", "hidden"],
+    "answer": "abstract"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Constructor return type?",
+    "options": ["No return", "void", "int", "object"],
+    "answer": "No return"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Static keyword means?",
+    "options": ["Class level", "Object level", "Local", "Global"],
+    "answer": "Class level"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Array index starts from?",
+    "options": ["0", "1", "-1", "depends"],
+    "answer": "0"
+  },
+  {
+    "difficulty": "medium",
+    "question": "String immutable?",
+    "options": ["Yes", "No", "Sometimes", "Unknown"],
+    "answer": "Yes"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Garbage collection used for?",
+    "options": ["Memory management", "Speed", "Security", "Storage"],
+    "answer": "Memory management"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "Output?\nint x=5; System.out.println(x++);",
+    "options": ["5", "6", "Error", "0"],
+    "answer": "5"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Output?\nint x=5; System.out.println(++x);",
+    "options": ["6", "5", "Error", "0"],
+    "answer": "6"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Output?\nSystem.out.println(10/3);",
+    "options": ["3", "3.33", "4", "Error"],
+    "answer": "3"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Output?\nString s=\"Java\"; System.out.println(s.length());",
+    "options": ["4", "3", "5", "Error"],
+    "answer": "4"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Output?\nSystem.out.println(true && false);",
+    "options": ["false", "true", "error", "none"],
+    "answer": "false"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Output?\nSystem.out.println(5%2);",
+    "options": ["1", "2", "0", "Error"],
+    "answer": "1"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Output?\nSystem.out.println(2+3*4);",
+    "options": ["14", "20", "24", "10"],
+    "answer": "14"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Output?\nSystem.out.println(\"Hi\"+5);",
+    "options": ["Hi5", "Error", "5Hi", "None"],
+    "answer": "Hi5"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword refers current object?",
+    "options": ["this", "super", "self", "object"],
+    "answer": "this"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword refers parent?",
+    "options": ["super", "this", "base", "parent"],
+    "answer": "super"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Method executed by thread?",
+    "options": ["run()", "start()", "main()", "init()"],
+    "answer": "run()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Exception propagation keyword?",
+    "options": ["throws", "throw", "try", "catch"],
+    "answer": "throws"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Immutable class?",
+    "options": ["String", "Array", "List", "Set"],
+    "answer": "String"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Overriding rule?",
+    "options": ["Same signature", "Different name", "Static only", "Private"],
+    "answer": "Same signature"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which is not OOP?",
+    "options": ["Compilation", "Inheritance", "Encapsulation", "Polymorphism"],
+    "answer": "Compilation"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Thread safe collection?",
+    "options": ["Vector", "ArrayList", "HashMap", "HashSet"],
+    "answer": "Vector"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Map key duplicate?",
+    "options": ["No", "Yes", "Sometimes", "Depends"],
+    "answer": "No"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Abstract class can have?",
+    "options": ["Both abstract & normal methods", "Only abstract", "Only normal", "None"],
+    "answer": "Both abstract & normal methods"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which is marker interface?",
+    "options": ["Serializable", "Runnable", "Thread", "Cloneable"],
+    "answer": "Serializable"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which is checked exception?",
+    "options": ["IOException", "RuntimeException", "NullPointerException", "ArithmeticException"],
+    "answer": "IOException"
+  }
+]

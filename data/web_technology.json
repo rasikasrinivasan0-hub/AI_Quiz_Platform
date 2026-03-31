@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Machine Language", "Hyper Transfer Markup Language", "Home Tool Markup Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style System", "Colorful Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does JS stand for?",
+    "options": ["JavaScript", "Java Source", "Just Script", "Joint Script"],
+    "answer": "JavaScript"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tag is used for heading?",
+    "options": ["<h1>", "<p>", "<div>", "<span>"],
+    "answer": "<h1>"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tag is used for paragraph?",
+    "options": ["<p>", "<h1>", "<div>", "<span>"],
+    "answer": "<p>"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tag is used for link?",
+    "options": ["<a>", "<link>", "<href>", "<url>"],
+    "answer": "<a>"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which attribute specifies link address?",
+    "options": ["href", "src", "link", "url"],
+    "answer": "href"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which property changes text color?",
+    "options": ["color", "background", "font", "text"],
+    "answer": "color"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which property sets background color?",
+    "options": ["background-color", "color", "bgcolor", "background"],
+    "answer": "background-color"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tag is used for image?",
+    "options": ["<img>", "<image>", "<pic>", "<src>"],
+    "answer": "<img>"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which attribute sets image source?",
+    "options": ["src", "href", "link", "url"],
+    "answer": "src"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tag creates list?",
+    "options": ["<ul>", "<li>", "<list>", "<ol>"],
+    "answer": "<ul>"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tag defines list item?",
+    "options": ["<li>", "<ul>", "<ol>", "<list>"],
+    "answer": "<li>"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword declares variable in JS?",
+    "options": ["let", "int", "var", "Both let and var"],
+    "answer": "Both let and var"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used for comments in JS?",
+    "options": ["//", "/* */", "#", "--"],
+    "answer": "//"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function displays output in JS?",
+    "options": ["console.log()", "print()", "echo()", "display()"],
+    "answer": "console.log()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which tag is used for form?",
+    "options": ["<form>", "<input>", "<button>", "<submit>"],
+    "answer": "<form>"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which input type is for text?",
+    "options": ["text", "number", "password", "email"],
+    "answer": "text"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which protocol is used for web?",
+    "options": ["HTTP", "FTP", "SMTP", "TCP"],
+    "answer": "HTTP"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which protocol is secure HTTP?",
+    "options": ["HTTPS", "HTTP", "FTP", "SSH"],
+    "answer": "HTTPS"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is DOM?",
+    "options": ["Document Object Model", "Data Object Model", "Document Order Model", "Display Object Model"],
+    "answer": "Document Object Model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which method selects element by id?",
+    "options": ["getElementById()", "querySelector()", "getElement()", "selectId()"],
+    "answer": "getElementById()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which method selects multiple elements?",
+    "options": ["querySelectorAll()", "getElementById()", "getOne()", "selectAll()"],
+    "answer": "querySelectorAll()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is event in JS?",
+    "options": ["User action", "Variable", "Function", "Loop"],
+    "answer": "User action"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which event occurs on click?",
+    "options": ["onclick", "onload", "onhover", "onchange"],
+    "answer": "onclick"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which CSS property controls layout?",
+    "options": ["display", "color", "font", "text"],
+    "answer": "display"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Flexbox?",
+    "options": ["Layout model", "Framework", "Library", "Language"],
+    "answer": "Layout model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Grid?",
+    "options": ["Layout system", "Database", "Function", "Variable"],
+    "answer": "Layout system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which HTTP method sends data?",
+    "options": ["POST", "GET", "PUT", "DELETE"],
+    "answer": "POST"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which HTTP method retrieves data?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "GET"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is API?",
+    "options": ["Application Programming Interface", "App Process Integration", "Advanced Program Interface", "Application Process Input"],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is JSON?",
+    "options": ["Data format", "Language", "Protocol", "Database"],
+    "answer": "Data format"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which method converts JSON?",
+    "options": ["JSON.parse()", "JSON.convert()", "JSON.toString()", "JSON.read()"],
+    "answer": "JSON.parse()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which method sends async request?",
+    "options": ["fetch()", "send()", "request()", "get()"],
+    "answer": "fetch()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is callback?",
+    "options": ["Function passed as argument", "Loop", "Variable", "Event"],
+    "answer": "Function passed as argument"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is promise?",
+    "options": ["Async result handler", "Loop", "Function", "Variable"],
+    "answer": "Async result handler"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is async/await?",
+    "options": ["Async handling", "Loop", "Variable", "Function"],
+    "answer": "Async handling"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is localStorage?",
+    "options": ["Browser storage", "Database", "Server", "API"],
+    "answer": "Browser storage"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is sessionStorage?",
+    "options": ["Temporary storage", "Permanent storage", "Database", "API"],
+    "answer": "Temporary storage"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is responsive design?",
+    "options": ["Adapts to screen size", "Static layout", "Fixed design", "None"],
+    "answer": "Adapts to screen size"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is REST API?",
+    "options": ["Stateless web service", "Stateful service", "Database", "Protocol"],
+    "answer": "Stateless web service"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is MVC?",
+    "options": ["Model View Controller", "Main View Control", "Model Variable Control", "View Model Controller"],
+    "answer": "Model View Controller"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CORS?",
+    "options": ["Cross-Origin Resource Sharing", "Cross Output Resource System", "Core Resource Sharing", "Cross Origin Request System"],
+    "answer": "Cross-Origin Resource Sharing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is JWT?",
+    "options": ["JSON Web Token", "Java Web Token", "Joint Web Token", "JSON Write Token"],
+    "answer": "JSON Web Token"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is WebSocket?",
+    "options": ["Full-duplex communication", "HTTP request", "API", "Protocol"],
+    "answer": "Full-duplex communication"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CDN?",
+    "options": ["Content Delivery Network", "Central Data Network", "Content Data Node", "Core Delivery Node"],
+    "answer": "Content Delivery Network"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SSR?",
+    "options": ["Server-side rendering", "Static site rendering", "Secure site routing", "Server-side routing"],
+    "answer": "Server-side rendering"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SPA?",
+    "options": ["Single Page Application", "Server Page App", "Static Page App", "Simple Page App"],
+    "answer": "Single Page Application"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is XSS?",
+    "options": ["Cross-site scripting", "Cross server scripting", "Extra secure system", "XML secure script"],
+    "answer": "Cross-site scripting"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CSRF?",
+    "options": ["Cross-site request forgery", "Cross server request", "Core security request", "Cross script request"],
+    "answer": "Cross-site request forgery"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is hashing?",
+    "options": ["Convert data to fixed string", "Encrypt data", "Sort data", "Delete data"],
+    "answer": "Convert data to fixed string"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is HTTPS?",
+    "options": ["Secure HTTP", "Hyper transfer", "High transfer", "Host transfer"],
+    "answer": "Secure HTTP"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is load balancing?",
+    "options": ["Distribute traffic", "Increase load", "Reduce data", "Sort data"],
+    "answer": "Distribute traffic"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is microservices?",
+    "options": ["Small independent services", "Single app", "Database", "API"],
+    "answer": "Small independent services"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is GraphQL?",
+    "options": ["Query language for APIs", "Database", "Protocol", "Language"],
+    "answer": "Query language for APIs"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is WebAssembly?",
+    "options": ["Low-level bytecode", "Language", "Framework", "Database"],
+    "answer": "Low-level bytecode"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is service worker?",
+    "options": ["Background script", "API", "Database", "Server"],
+    "answer": "Background script"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is PWA?",
+    "options": ["Progressive Web App", "Primary Web App", "Public Web App", "Private Web App"],
+    "answer": "Progressive Web App"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SEO?",
+    "options": ["Search Engine Optimization", "System Engine Output", "Search Engine Output", "Secure Engine Optimization"],
+    "answer": "Search Engine Optimization"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is caching?",
+    "options": ["Store data temporarily", "Delete data", "Encrypt data", "Sort data"],
+    "answer": "Store data temporarily"
+  }
+]

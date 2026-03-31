@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "Who developed C#?",
+    "options": ["Microsoft", "Google", "Apple", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which company introduced C#?",
+    "options": ["Microsoft", "Sun Microsystems", "Oracle", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used for single-line comments in C#?",
+    "options": ["//", "/* */", "#", "--"],
+    "answer": "//"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword defines a class in C#?",
+    "options": ["class", "struct", "object", "define"],
+    "answer": "class"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which method is the entry point of a C# program?",
+    "options": ["Main()", "Start()", "Init()", "Run()"],
+    "answer": "Main()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data type stores true/false values?",
+    "options": ["bool", "int", "char", "float"],
+    "answer": "bool"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to declare a constant?",
+    "options": ["const", "final", "static", "readonly"],
+    "answer": "const"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for equality?",
+    "options": ["==", "=", "!=", ">"],
+    "answer": "=="
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol ends a statement?",
+    "options": [";", ":", ".", ","],
+    "answer": ";"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to inherit a class?",
+    "options": [":", "extends", "inherits", "base"],
+    "answer": ":"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type is used for decimal values?",
+    "options": ["float", "int", "bool", "char"],
+    "answer": "float"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to stop a loop?",
+    "options": ["break", "exit", "stop", "return"],
+    "answer": "break"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for decision making?",
+    "options": ["if", "loop", "switch", "case"],
+    "answer": "if"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which loop runs at least once?",
+    "options": ["do-while", "for", "while", "foreach"],
+    "answer": "do-while"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword returns a value from a method?",
+    "options": ["return", "break", "exit", "yield"],
+    "answer": "return"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to define a method?",
+    "options": ["No keyword needed", "function", "def", "method"],
+    "answer": "No keyword needed"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for addition?",
+    "options": ["+", "-", "*", "/"],
+    "answer": "+"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to create object?",
+    "options": ["new", "create", "object", "class"],
+    "answer": "new"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type represents whole numbers?",
+    "options": ["int", "float", "char", "bool"],
+    "answer": "int"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for loop?",
+    "options": ["for", "loop", "iterate", "repeat"],
+    "answer": "for"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is the output of Console.WriteLine(5 + 2 * 3);?",
+    "options": ["11", "21", "16", "10"],
+    "answer": "11"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which concept supports code reuse?",
+    "options": ["Inheritance", "Encapsulation", "Polymorphism", "Abstraction"],
+    "answer": "Inheritance"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is encapsulation?",
+    "options": ["Wrapping data and methods", "Loop", "Pointer", "Array"],
+    "answer": "Wrapping data and methods"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used for method overriding?",
+    "options": ["override", "virtual", "new", "base"],
+    "answer": "override"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword allows method overriding?",
+    "options": ["virtual", "override", "static", "sealed"],
+    "answer": "virtual"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword prevents inheritance?",
+    "options": ["sealed", "static", "const", "readonly"],
+    "answer": "sealed"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is polymorphism?",
+    "options": ["Same method different behavior", "Loop", "Array", "Pointer"],
+    "answer": "Same method different behavior"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which loop iterates through collection?",
+    "options": ["foreach", "for", "while", "do-while"],
+    "answer": "foreach"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword handles exception?",
+    "options": ["catch", "try", "throw", "handle"],
+    "answer": "catch"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword throws exception?",
+    "options": ["throw", "try", "catch", "error"],
+    "answer": "throw"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which block is used for exception?",
+    "options": ["try", "catch", "finally", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which type stores text?",
+    "options": ["string", "char", "int", "bool"],
+    "answer": "string"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used for interface?",
+    "options": ["interface", "class", "struct", "object"],
+    "answer": "interface"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is property in C#?",
+    "options": ["Getter/Setter", "Loop", "Pointer", "Array"],
+    "answer": "Getter/Setter"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used for read-only field?",
+    "options": ["readonly", "const", "static", "sealed"],
+    "answer": "readonly"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which method converts string to int?",
+    "options": ["Convert.ToInt32()", "parseInt()", "int()", "toInt()"],
+    "answer": "Convert.ToInt32()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword refers base class?",
+    "options": ["base", "this", "parent", "super"],
+    "answer": "base"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword refers current object?",
+    "options": ["this", "base", "self", "current"],
+    "answer": "this"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which type is used for dynamic typing?",
+    "options": ["dynamic", "var", "object", "auto"],
+    "answer": "dynamic"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used for LINQ?",
+    "options": ["from", "select", "where", "All"],
+    "answer": "All"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is CLR?",
+    "options": ["Common Language Runtime", "Core Language Runtime", "Common Logic Runtime", "Central Language Runtime"],
+    "answer": "Common Language Runtime"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CTS?",
+    "options": ["Common Type System", "Core Type System", "Central Type System", "Common Template System"],
+    "answer": "Common Type System"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CLS?",
+    "options": ["Common Language Specification", "Core Language Spec", "Central Logic Spec", "Common Link Spec"],
+    "answer": "Common Language Specification"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is boxing?",
+    "options": ["Value type to object", "Object to value", "Memory allocation", "Garbage collection"],
+    "answer": "Value type to object"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is unboxing?",
+    "options": ["Object to value type", "Value to object", "Loop", "Pointer"],
+    "answer": "Object to value type"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is garbage collection?",
+    "options": ["Automatic memory management", "Manual delete", "Loop", "Compilation"],
+    "answer": "Automatic memory management"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword defines extension method?",
+    "options": ["this", "extend", "extension", "using"],
+    "answer": "this"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is delegate?",
+    "options": ["Type-safe function pointer", "Loop", "Array", "Class"],
+    "answer": "Type-safe function pointer"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is event?",
+    "options": ["Delegate-based mechanism", "Loop", "Class", "Variable"],
+    "answer": "Delegate-based mechanism"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is async keyword?",
+    "options": ["Asynchronous programming", "Loop", "Thread stop", "Exception"],
+    "answer": "Asynchronous programming"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword waits async result?",
+    "options": ["await", "wait", "hold", "sleep"],
+    "answer": "await"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is LINQ?",
+    "options": ["Language Integrated Query", "Loop Query", "Linked Query", "Local Query"],
+    "answer": "Language Integrated Query"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which type is immutable?",
+    "options": ["string", "int", "bool", "float"],
+    "answer": "string"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is reflection?",
+    "options": ["Inspect metadata at runtime", "Loop", "Pointer", "Compilation"],
+    "answer": "Inspect metadata at runtime"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword creates thread?",
+    "options": ["Thread", "Task", "Run", "Start"],
+    "answer": "Thread"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Task?",
+    "options": ["Async operation", "Loop", "Thread stop", "Exception"],
+    "answer": "Async operation"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is dependency injection?",
+    "options": ["Providing dependencies externally", "Loop", "Pointer", "Compilation"],
+    "answer": "Providing dependencies externally"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword is used for nullable type?",
+    "options": ["?", "!", "*", "&"],
+    "answer": "?"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is var?",
+    "options": ["Implicit type", "Dynamic type", "Constant", "Pointer"],
+    "answer": "Implicit type"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword defines anonymous type?",
+    "options": ["var", "new", "this", "object"],
+    "answer": "new"
+  }
+]

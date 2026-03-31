@@ -1,0 +1,68 @@
+/* Background */
+body {
+    background: #121212;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+}
+
+/* Glass Card */
+.main-card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: white;
+}
+
+/* Inputs */
+.form-control {
+    background: #1e1e1e;
+    border: 1px solid #333;
+    color: white;
+    border-radius: 8px;
+}
+
+.form-control::placeholder {
+    color: #aaa;
+}
+
+/* Buttons */
+.btn-custom {
+    background: #ffffff;
+    color: black;
+    border-radius: 8px;
+    padding: 10px 25px;
+    transition: 0.3s;
+    border: none;
+}
+
+.btn-custom:hover {
+    background: #e0e0e0;
+}
+
+/* Logo animation */
+.logo {
+    width: 100px;
+    animation: float 3s ease-in-out infinite;
+}
+
+/* Floating animation */
+@keyframes float {
+    0%,100% {transform: translateY(0);}
+    50% {transform: translateY(-8px);}
+}
+
+/* Cards (quiz questions) */
+.card {
+    background: #1e1e1e;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #333;
+}
+
+/* Timer */
+#timer {
+    color: #00c6ff;
+    font-weight: bold;
+}

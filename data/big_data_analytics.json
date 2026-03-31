@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is Big Data?",
+    "options": ["Large volume of data", "Small data", "Database", "Program"],
+    "answer": "Large volume of data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What are the 3Vs of Big Data?",
+    "options": ["Volume Velocity Variety", "Value Version Variety", "Volume Version Value", "Velocity Value Version"],
+    "answer": "Volume Velocity Variety"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is Hadoop?",
+    "options": ["Big data framework", "Database", "OS", "Language"],
+    "answer": "Big data framework"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is HDFS?",
+    "options": ["Hadoop Distributed File System", "High Data File System", "Hadoop Data File Server", "None"],
+    "answer": "Hadoop Distributed File System"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is MapReduce?",
+    "options": ["Processing model", "Storage", "Network", "Protocol"],
+    "answer": "Processing model"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data analytics?",
+    "options": ["Analyze data", "Store data", "Delete data", "Sort data"],
+    "answer": "Analyze data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is structured data?",
+    "options": ["Organized data", "Unorganized", "Mixed", "None"],
+    "answer": "Organized data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is unstructured data?",
+    "options": ["Unorganized data", "Structured", "Table data", "None"],
+    "answer": "Unorganized data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is NoSQL?",
+    "options": ["Non-relational DB", "Relational DB", "SQL", "None"],
+    "answer": "Non-relational DB"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is MongoDB?",
+    "options": ["NoSQL database", "SQL DB", "OS", "Language"],
+    "answer": "NoSQL database"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data warehouse?",
+    "options": ["Central data storage", "Small DB", "Program", "None"],
+    "answer": "Central data storage"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is ETL?",
+    "options": ["Extract Transform Load", "Enter Transfer Load", "Extract Transfer Link", "None"],
+    "answer": "Extract Transform Load"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data lake?",
+    "options": ["Raw data storage", "Processed data", "Database", "None"],
+    "answer": "Raw data storage"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is Apache Spark?",
+    "options": ["Fast processing engine", "Database", "OS", "Language"],
+    "answer": "Fast processing engine"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is streaming data?",
+    "options": ["Real-time data", "Static data", "Batch data", "None"],
+    "answer": "Real-time data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is batch processing?",
+    "options": ["Process data in chunks", "Real-time", "Streaming", "None"],
+    "answer": "Process data in chunks"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data mining?",
+    "options": ["Find patterns", "Store data", "Delete data", "Sort data"],
+    "answer": "Find patterns"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is visualization?",
+    "options": ["Graphical data", "Store data", "Delete data", "Sort data"],
+    "answer": "Graphical data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is BI?",
+    "options": ["Business Intelligence", "Big Information", "Binary Info", "None"],
+    "answer": "Business Intelligence"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is cluster?",
+    "options": ["Group of nodes", "Single node", "Database", "None"],
+    "answer": "Group of nodes"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is YARN?",
+    "options": ["Resource manager", "Storage", "Processing", "None"],
+    "answer": "Resource manager"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Hive?",
+    "options": ["Data warehouse tool", "Database", "OS", "None"],
+    "answer": "Data warehouse tool"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Pig?",
+    "options": ["Data processing tool", "Database", "OS", "None"],
+    "answer": "Data processing tool"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Sqoop?",
+    "options": ["Transfer data tool", "Storage", "Processing", "None"],
+    "answer": "Transfer data tool"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Flume?",
+    "options": ["Log data ingestion", "Processing", "Storage", "None"],
+    "answer": "Log data ingestion"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Kafka?",
+    "options": ["Streaming platform", "Database", "OS", "None"],
+    "answer": "Streaming platform"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is RDD?",
+    "options": ["Resilient distributed dataset", "Database", "OS", "None"],
+    "answer": "Resilient distributed dataset"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DataFrame?",
+    "options": ["Structured data", "Unstructured", "Database", "None"],
+    "answer": "Structured data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DAG?",
+    "options": ["Directed acyclic graph", "Cycle graph", "Tree", "None"],
+    "answer": "Directed acyclic graph"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is partitioning?",
+    "options": ["Divide data", "Merge data", "Delete", "Sort"],
+    "answer": "Divide data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is replication?",
+    "options": ["Copy data", "Delete data", "Sort", "Encrypt"],
+    "answer": "Copy data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is fault tolerance?",
+    "options": ["Handle failure", "Error", "Crash", "None"],
+    "answer": "Handle failure"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is scalability?",
+    "options": ["Handle growth", "Decrease", "Delete", "None"],
+    "answer": "Handle growth"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is data pipeline?",
+    "options": ["Data flow system", "Database", "OS", "None"],
+    "answer": "Data flow system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is data governance?",
+    "options": ["Manage data rules", "Store data", "Delete data", "None"],
+    "answer": "Manage data rules"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is metadata?",
+    "options": ["Data about data", "Raw data", "Processed", "None"],
+    "answer": "Data about data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is OLAP?",
+    "options": ["Analytical processing", "Transactional", "Database", "None"],
+    "answer": "Analytical processing"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is OLTP?",
+    "options": ["Transactional processing", "Analytical", "Database", "None"],
+    "answer": "Transactional processing"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is schema-on-read?",
+    "options": ["Apply schema later", "Apply first", "None", "Error"],
+    "answer": "Apply schema later"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is schema-on-write?",
+    "options": ["Apply schema first", "Later", "None", "Error"],
+    "answer": "Apply schema first"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is Lambda architecture?",
+    "options": ["Batch + streaming", "Only batch", "Only streaming", "None"],
+    "answer": "Batch + streaming"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Kappa architecture?",
+    "options": ["Streaming only", "Batch", "Both", "None"],
+    "answer": "Streaming only"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is shuffle in Spark?",
+    "options": ["Data redistribution", "Delete data", "Sort", "Encrypt"],
+    "answer": "Data redistribution"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is lineage?",
+    "options": ["Data history", "Delete data", "Sort", "None"],
+    "answer": "Data history"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is checkpointing?",
+    "options": ["Save state", "Delete data", "Sort", "None"],
+    "answer": "Save state"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is data skew?",
+    "options": ["Uneven data distribution", "Even", "Sorted", "None"],
+    "answer": "Uneven data distribution"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is join optimization?",
+    "options": ["Improve join performance", "Delete data", "Sort", "None"],
+    "answer": "Improve join performance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is broadcast join?",
+    "options": ["Small table to nodes", "Large table", "Delete", "None"],
+    "answer": "Small table to nodes"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is window function?",
+    "options": ["Operate over rows", "Delete data", "Sort", "None"],
+    "answer": "Operate over rows"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is stream processing engine?",
+    "options": ["Real-time processing", "Batch", "Database", "None"],
+    "answer": "Real-time processing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is watermarking?",
+    "options": ["Handle late data", "Delete", "Sort", "None"],
+    "answer": "Handle late data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is exactly-once processing?",
+    "options": ["No duplicates", "Duplicates", "Error", "None"],
+    "answer": "No duplicates"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is eventual consistency?",
+    "options": ["Data sync later", "Immediate", "None", "Error"],
+    "answer": "Data sync later"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CAP theorem?",
+    "options": ["Consistency Availability Partition", "Control Access Protocol", "Cloud Access Policy", "None"],
+    "answer": "Consistency Availability Partition"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is data partitioning strategy?",
+    "options": ["Divide data logically", "Delete data", "Sort", "None"],
+    "answer": "Divide data logically"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is bloom filter?",
+    "options": ["Probabilistic structure", "Database", "OS", "None"],
+    "answer": "Probabilistic structure"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is columnar storage?",
+    "options": ["Store by column", "Row storage", "None", "Error"],
+    "answer": "Store by column"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is data compression?",
+    "options": ["Reduce size", "Increase size", "Delete", "None"],
+    "answer": "Reduce size"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Parquet?",
+    "options": ["Columnar format", "Row format", "Database", "None"],
+    "answer": "Columnar format"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is ORC?",
+    "options": ["Optimized row columnar", "Row only", "Column only", "None"],
+    "answer": "Optimized row columnar"
+  }
+]

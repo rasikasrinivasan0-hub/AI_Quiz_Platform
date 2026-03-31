@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is IoT?",
+    "options": ["Network of connected devices", "Single device", "Database", "Program"],
+    "answer": "Network of connected devices"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does IoT stand for?",
+    "options": ["Internet of Things", "Integration of Technology", "Internet of Technology", "None"],
+    "answer": "Internet of Things"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which device is used in IoT?",
+    "options": ["Sensor", "Monitor", "Keyboard", "Mouse"],
+    "answer": "Sensor"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is sensor?",
+    "options": ["Collects data", "Stores data", "Deletes data", "Sorts data"],
+    "answer": "Collects data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is actuator?",
+    "options": ["Performs action", "Stores data", "Deletes data", "Sorts data"],
+    "answer": "Performs action"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which protocol is used in IoT?",
+    "options": ["MQTT", "HTTP", "FTP", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is smart home?",
+    "options": ["Automated home", "Manual home", "Simple house", "None"],
+    "answer": "Automated home"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is embedded system?",
+    "options": ["Special-purpose system", "General computer", "Server", "Database"],
+    "answer": "Special-purpose system"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which board is used in IoT?",
+    "options": ["Arduino", "Monitor", "Keyboard", "Mouse"],
+    "answer": "Arduino"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is Raspberry Pi?",
+    "options": ["Mini computer", "Sensor", "Protocol", "Database"],
+    "answer": "Mini computer"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is connectivity?",
+    "options": ["Device communication", "Storage", "Processing", "None"],
+    "answer": "Device communication"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is Wi-Fi?",
+    "options": ["Wireless network", "Cable", "Sensor", "Database"],
+    "answer": "Wireless network"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is Bluetooth?",
+    "options": ["Short-range wireless", "Long-range", "Cable", "None"],
+    "answer": "Short-range wireless"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is cloud in IoT?",
+    "options": ["Data storage", "Device", "Sensor", "None"],
+    "answer": "Data storage"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data in IoT?",
+    "options": ["Collected information", "Device", "Protocol", "None"],
+    "answer": "Collected information"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is gateway?",
+    "options": ["Connect devices", "Sensor", "Actuator", "None"],
+    "answer": "Connect devices"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is automation?",
+    "options": ["Automatic control", "Manual control", "None", "Error"],
+    "answer": "Automatic control"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is real-time data?",
+    "options": ["Live data", "Old data", "Stored data", "None"],
+    "answer": "Live data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is IoT application?",
+    "options": ["Smart devices usage", "Database", "Program", "None"],
+    "answer": "Smart devices usage"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is wearables?",
+    "options": ["Smart devices worn", "Phones", "Laptops", "None"],
+    "answer": "Smart devices worn"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is MQTT?",
+    "options": ["Lightweight protocol", "Database", "OS", "None"],
+    "answer": "Lightweight protocol"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is CoAP?",
+    "options": ["IoT protocol", "Database", "OS", "None"],
+    "answer": "IoT protocol"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Zigbee?",
+    "options": ["Wireless protocol", "Cable", "Database", "None"],
+    "answer": "Wireless protocol"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is LoRa?",
+    "options": ["Long-range communication", "Short range", "Cable", "None"],
+    "answer": "Long-range communication"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is edge computing?",
+    "options": ["Processing near device", "Cloud", "Server", "None"],
+    "answer": "Processing near device"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is fog computing?",
+    "options": ["Intermediate processing", "Cloud", "Device", "None"],
+    "answer": "Intermediate processing"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is IoT architecture?",
+    "options": ["Layered structure", "Database", "OS", "None"],
+    "answer": "Layered structure"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is device management?",
+    "options": ["Manage IoT devices", "Delete", "Sort", "None"],
+    "answer": "Manage IoT devices"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is data analytics in IoT?",
+    "options": ["Analyze IoT data", "Store", "Delete", "None"],
+    "answer": "Analyze IoT data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is IoT security?",
+    "options": ["Protect devices", "Delete", "Sort", "None"],
+    "answer": "Protect devices"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is firmware?",
+    "options": ["Device software", "Hardware", "Database", "None"],
+    "answer": "Device software"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is OTA update?",
+    "options": ["Update via internet", "Manual update", "None", "Error"],
+    "answer": "Update via internet"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is API in IoT?",
+    "options": ["Interface for communication", "Database", "OS", "None"],
+    "answer": "Interface for communication"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is interoperability?",
+    "options": ["Devices work together", "Single device", "None", "Error"],
+    "answer": "Devices work together"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is latency?",
+    "options": ["Delay", "Speed", "Bandwidth", "None"],
+    "answer": "Delay"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is bandwidth?",
+    "options": ["Data rate", "Delay", "Storage", "None"],
+    "answer": "Data rate"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is smart city?",
+    "options": ["IoT-based city", "Normal city", "Village", "None"],
+    "answer": "IoT-based city"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is industrial IoT?",
+    "options": ["IoT in industry", "Home IoT", "None", "Error"],
+    "answer": "IoT in industry"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is healthcare IoT?",
+    "options": ["IoT in medical", "Network", "Database", "None"],
+    "answer": "IoT in medical"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is smart agriculture?",
+    "options": ["IoT farming", "Normal farming", "None", "Error"],
+    "answer": "IoT farming"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is IoT protocol stack?",
+    "options": ["Layered protocols", "Single protocol", "None", "Error"],
+    "answer": "Layered protocols"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is IPv6 in IoT?",
+    "options": ["Large address space", "Small", "None", "Error"],
+    "answer": "Large address space"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is 6LoWPAN?",
+    "options": ["IPv6 over low power", "Protocol", "Database", "None"],
+    "answer": "IPv6 over low power"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is MQTT QoS?",
+    "options": ["Message delivery levels", "Security", "Speed", "None"],
+    "answer": "Message delivery levels"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is digital twin?",
+    "options": ["Virtual device model", "Real device", "Sensor", "None"],
+    "answer": "Virtual device model"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is IoT analytics pipeline?",
+    "options": ["Data processing flow", "Database", "OS", "None"],
+    "answer": "Data processing flow"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is device provisioning?",
+    "options": ["Setup devices", "Delete", "Sort", "None"],
+    "answer": "Setup devices"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is identity management?",
+    "options": ["Manage device identity", "Delete", "Sort", "None"],
+    "answer": "Manage device identity"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is secure boot?",
+    "options": ["Verify firmware", "Delete", "Sort", "None"],
+    "answer": "Verify firmware"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is encryption in IoT?",
+    "options": ["Secure data", "Delete", "Sort", "None"],
+    "answer": "Secure data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is anomaly detection in IoT?",
+    "options": ["Detect unusual behavior", "Normal data", "Sort", "None"],
+    "answer": "Detect unusual behavior"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is time synchronization?",
+    "options": ["Sync clocks", "Delete", "Sort", "None"],
+    "answer": "Sync clocks"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is mesh network?",
+    "options": ["Connected nodes network", "Star", "Bus", "None"],
+    "answer": "Connected nodes network"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is IoT middleware?",
+    "options": ["Connect devices and apps", "Database", "OS", "None"],
+    "answer": "Connect devices and apps"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is event-driven architecture?",
+    "options": ["Trigger-based system", "Static", "None", "Error"],
+    "answer": "Trigger-based system"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is data ingestion?",
+    "options": ["Collect data", "Delete", "Sort", "None"],
+    "answer": "Collect data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is edge AI?",
+    "options": ["AI on devices", "Cloud AI", "None", "Error"],
+    "answer": "AI on devices"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is energy efficiency in IoT?",
+    "options": ["Low power usage", "High power", "None", "Error"],
+    "answer": "Low power usage"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is scalability in IoT?",
+    "options": ["Handle many devices", "Single device", "None", "Error"],
+    "answer": "Handle many devices"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is interoperability standard?",
+    "options": ["Common communication rules", "Device", "Sensor", "None"],
+    "answer": "Common communication rules"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is Python?",
+    "options": ["Programming language", "Snake", "Game", "Operating System"],
+    "answer": "Programming language"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Who created Python?",
+    "options": ["Guido van Rossum", "James Gosling", "Dennis Ritchie", "Bjarne Stroustrup"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Python is which type of language?",
+    "options": ["High-level", "Low-level", "Assembly", "Machine"],
+    "answer": "High-level"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for function in Python?",
+    "options": ["def", "func", "function", "define"],
+    "answer": "def"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used for comments?",
+    "options": ["#", "//", "/* */", "--"],
+    "answer": "#"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data type stores text?",
+    "options": ["str", "int", "float", "bool"],
+    "answer": "str"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function prints output?",
+    "options": ["print()", "echo()", "write()", "display()"],
+    "answer": "print()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for addition?",
+    "options": ["+", "-", "*", "/"],
+    "answer": "+"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for loop?",
+    "options": ["for", "loop", "iterate", "repeat"],
+    "answer": "for"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is a boolean value?",
+    "options": ["True", "Yes", "1", "On"],
+    "answer": "True"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function gets user input?",
+    "options": ["input()", "scan()", "read()", "get()"],
+    "answer": "input()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data type stores numbers?",
+    "options": ["int", "str", "list", "tuple"],
+    "answer": "int"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is used to define a list?",
+    "options": ["[]", "{}", "()", "<>"],
+    "answer": "[]"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for condition?",
+    "options": ["if", "when", "check", "case"],
+    "answer": "if"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is correct file extension?",
+    "options": [".py", ".java", ".c", ".txt"],
+    "answer": ".py"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is mutable?",
+    "options": ["list", "tuple", "string", "int"],
+    "answer": "list"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is immutable?",
+    "options": ["tuple", "list", "dict", "set"],
+    "answer": "tuple"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which structure stores key-value?",
+    "options": ["dictionary", "list", "tuple", "set"],
+    "answer": "dictionary"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword exits loop?",
+    "options": ["break", "exit", "stop", "end"],
+    "answer": "break"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword skips iteration?",
+    "options": ["continue", "skip", "pass", "next"],
+    "answer": "continue"
+  }
+  ,
+{
+  "difficulty": "medium",
+  "question": "What is the output of len([1,2,3,4])?",
+  "options": ["3", "4", "5", "Error"],
+  "answer": "4"
+},
+{
+  "difficulty": "medium",
+  "question": "Which keyword is used for exception handling?",
+  "options": ["try", "catch", "handle", "except"],
+  "answer": "try"
+},
+{
+  "difficulty": "medium",
+  "question": "Which of the following is a mutable data type?",
+  "options": ["tuple", "string", "list", "int"],
+  "answer": "list"
+},
+{
+  "difficulty": "medium",
+  "question": "What does range(5) return?",
+  "options": ["0-4", "1-5", "0-5", "Error"],
+  "answer": "0-4"
+},
+{
+  "difficulty": "medium",
+  "question": "Which function converts string to integer?",
+  "options": ["int()", "str()", "float()", "chr()"],
+  "answer": "int()"
+},
+{
+  "difficulty": "medium",
+  "question": "Which module is used for random numbers?",
+  "options": ["math", "random", "sys", "os"],
+  "answer": "random"
+},
+{
+  "difficulty": "medium",
+  "question": "What is the output of 2**3?",
+  "options": ["6", "8", "9", "5"],
+  "answer": "8"
+},
+{
+  "difficulty": "medium",
+  "question": "Which keyword is used to define class?",
+  "options": ["class", "def", "object", "create"],
+  "answer": "class"
+},
+{
+  "difficulty": "medium",
+  "question": "Which function returns type of variable?",
+  "options": ["type()", "id()", "len()", "var()"],
+  "answer": "type()"
+},
+{
+  "difficulty": "medium",
+  "question": "Which of the following is a loop?",
+  "options": ["for", "if", "def", "class"],
+  "answer": "for"
+},
+{
+  "difficulty": "medium",
+  "question": "Which keyword is used for inheritance?",
+  "options": ["super", "extends", "inherit", "class"],
+  "answer": "class"
+},
+{
+  "difficulty": "medium",
+  "question": "What is the output of bool(0)?",
+  "options": ["True", "False", "None", "Error"],
+  "answer": "False"
+},
+{
+  "difficulty": "medium",
+  "question": "Which symbol is used for floor division?",
+  "options": ["//", "/", "%", "**"],
+  "answer": "//"
+},
+{
+  "difficulty": "medium",
+  "question": "Which keyword stops loop?",
+  "options": ["break", "continue", "stop", "exit"],
+  "answer": "break"
+},
+{
+  "difficulty": "medium",
+  "question": "Which data type is unordered?",
+  "options": ["list", "tuple", "set", "string"],
+  "answer": "set"
+},
+{
+  "difficulty": "medium",
+  "question": "Which method adds item to list?",
+  "options": ["append()", "add()", "insert()", "push()"],
+  "answer": "append()"
+},
+{
+  "difficulty": "medium",
+  "question": "What is slicing?",
+  "options": ["Extract part of sequence", "Sorting", "Looping", "Error handling"],
+  "answer": "Extract part of sequence"
+},
+{
+  "difficulty": "medium",
+  "question": "Which keyword is used to skip iteration?",
+  "options": ["continue", "pass", "skip", "break"],
+  "answer": "continue"
+},
+{
+  "difficulty": "medium",
+  "question": "Which function returns length?",
+  "options": ["len()", "size()", "count()", "length()"],
+  "answer": "len()"
+},
+{
+  "difficulty": "medium",
+  "question": "Which operator is used for modulus?",
+  "options": ["%", "/", "//", "+"],
+  "answer": "%"
+}
+,
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(2 + 3 * 4)?",
+  "options": ["20", "14", "24", "10"],
+  "answer": "14"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print('Hello' * 2)?",
+  "options": ["HelloHello", "Hello 2", "Error", "Hello*2"],
+  "answer": "HelloHello"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(10 // 3)?",
+  "options": ["3", "3.33", "4", "Error"],
+  "answer": "3"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(bool([]))?",
+  "options": ["True", "False", "None", "Error"],
+  "answer": "False"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(len('Python'))?",
+  "options": ["5", "6", "7", "Error"],
+  "answer": "6"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print([1,2,3][1])?",
+  "options": ["1", "2", "3", "Error"],
+  "answer": "2"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(type(10))?",
+  "options": ["int", "<class 'int'>", "number", "type"],
+  "answer": "<class 'int'>"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(5 == 5.0)?",
+  "options": ["True", "False", "Error", "None"],
+  "answer": "True"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(3 > 2 and 2 > 1)?",
+  "options": ["True", "False", "Error", "None"],
+  "answer": "True"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output of: print(5 % 2)?",
+  "options": ["1", "2", "0", "Error"],
+  "answer": "1"
+},
+
+{
+  "difficulty": "hard",
+  "question": "What is the output?\n\nx = [1,2,3]\nx.append(4)\nprint(len(x))",
+  "options": ["3", "4", "5", "Error"],
+  "answer": "4"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output?\n\nx = [1,2,3]\nprint(x[-1])",
+  "options": ["1", "2", "3", "Error"],
+  "answer": "3"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output?\n\nx = 'abc'\nprint(x.upper())",
+  "options": ["ABC", "abc", "Error", "None"],
+  "answer": "ABC"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output?\n\nfor i in range(3):\n    print(i)",
+  "options": ["0 1 2", "1 2 3", "0 1 2 3", "Error"],
+  "answer": "0 1 2"
+},
+{
+  "difficulty": "hard",
+  "question": "What is the output?\n\nx = {1,2,3}\nprint(len(x))",
+  "options": ["2", "3", "4", "Error"],
+  "answer": "3"
+},
+
+{
+  "difficulty": "hard",
+  "question": "Which of the following is used for memory management?",
+  "options": ["Garbage Collector", "Compiler", "Interpreter", "Debugger"],
+  "answer": "Garbage Collector"
+},
+{
+  "difficulty": "hard",
+  "question": "Which concept allows multiple inheritance?",
+  "options": ["Polymorphism", "Encapsulation", "Inheritance", "Abstraction"],
+  "answer": "Inheritance"
+},
+{
+  "difficulty": "hard",
+  "question": "Which module is used to handle system operations?",
+  "options": ["sys", "math", "random", "json"],
+  "answer": "sys"
+},
+{
+  "difficulty": "hard",
+  "question": "Which keyword is used to define generator?",
+  "options": ["yield", "return", "def", "gen"],
+  "answer": "yield"
+},
+{
+  "difficulty": "hard",
+  "question": "Which method removes last item from list?",
+  "options": ["pop()", "remove()", "delete()", "clear()"],
+  "answer": "pop()"
+}
+]

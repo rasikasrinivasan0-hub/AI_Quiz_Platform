@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Standard Query Logic", "System Query Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which command is used to retrieve data?",
+    "options": ["SELECT", "GET", "FETCH", "RETRIEVE"],
+    "answer": "SELECT"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which command is used to insert data?",
+    "options": ["INSERT", "ADD", "PUT", "CREATE"],
+    "answer": "INSERT"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which command deletes data?",
+    "options": ["DELETE", "REMOVE", "DROP", "CLEAR"],
+    "answer": "DELETE"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which clause filters rows?",
+    "options": ["WHERE", "ORDER BY", "GROUP BY", "HAVING"],
+    "answer": "WHERE"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which command updates data?",
+    "options": ["UPDATE", "MODIFY", "CHANGE", "SET"],
+    "answer": "UPDATE"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which clause sorts results?",
+    "options": ["ORDER BY", "SORT", "GROUP BY", "WHERE"],
+    "answer": "ORDER BY"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which command creates table?",
+    "options": ["CREATE", "MAKE", "BUILD", "NEW"],
+    "answer": "CREATE"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which command removes table?",
+    "options": ["DROP", "DELETE", "REMOVE", "CLEAR"],
+    "answer": "DROP"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which clause groups rows?",
+    "options": ["GROUP BY", "ORDER BY", "WHERE", "HAVING"],
+    "answer": "GROUP BY"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword ensures unique values?",
+    "options": ["DISTINCT", "UNIQUE", "ONLY", "DIFFERENT"],
+    "answer": "DISTINCT"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function counts rows?",
+    "options": ["COUNT()", "SUM()", "AVG()", "TOTAL()"],
+    "answer": "COUNT()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function calculates sum?",
+    "options": ["SUM()", "COUNT()", "AVG()", "MAX()"],
+    "answer": "SUM()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function finds average?",
+    "options": ["AVG()", "MEAN()", "SUM()", "COUNT()"],
+    "answer": "AVG()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for equality?",
+    "options": ["=", "==", "!=", "<>"],
+    "answer": "="
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which wildcard matches any characters?",
+    "options": ["%", "_", "*", "#"],
+    "answer": "%"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which wildcard matches single character?",
+    "options": ["_", "%", "*", "#"],
+    "answer": "_"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which command renames table?",
+    "options": ["ALTER", "RENAME", "CHANGE", "MODIFY"],
+    "answer": "ALTER"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which constraint ensures uniqueness?",
+    "options": ["UNIQUE", "PRIMARY KEY", "FOREIGN KEY", "CHECK"],
+    "answer": "UNIQUE"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which constraint identifies row uniquely?",
+    "options": ["PRIMARY KEY", "FOREIGN KEY", "UNIQUE", "CHECK"],
+    "answer": "PRIMARY KEY"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "Which clause filters grouped data?",
+    "options": ["HAVING", "WHERE", "GROUP BY", "ORDER BY"],
+    "answer": "HAVING"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which join returns matching rows?",
+    "options": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL JOIN"],
+    "answer": "INNER JOIN"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which join returns all left rows?",
+    "options": ["LEFT JOIN", "RIGHT JOIN", "INNER JOIN", "FULL JOIN"],
+    "answer": "LEFT JOIN"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which join returns all right rows?",
+    "options": ["RIGHT JOIN", "LEFT JOIN", "INNER JOIN", "FULL JOIN"],
+    "answer": "RIGHT JOIN"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which join returns all rows?",
+    "options": ["FULL JOIN", "INNER JOIN", "LEFT JOIN", "RIGHT JOIN"],
+    "answer": "FULL JOIN"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword checks null values?",
+    "options": ["IS NULL", "NULL", "CHECK NULL", "EQUAL NULL"],
+    "answer": "IS NULL"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword checks not null?",
+    "options": ["IS NOT NULL", "NOT NULL", "!= NULL", "CHECK NOT"],
+    "answer": "IS NOT NULL"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword limits rows?",
+    "options": ["LIMIT", "TOP", "ROWNUM", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which command deletes table structure?",
+    "options": ["DROP", "DELETE", "TRUNCATE", "REMOVE"],
+    "answer": "DROP"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which command removes all rows quickly?",
+    "options": ["TRUNCATE", "DELETE", "DROP", "CLEAR"],
+    "answer": "TRUNCATE"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which clause selects distinct rows?",
+    "options": ["DISTINCT", "UNIQUE", "ONLY", "FILTER"],
+    "answer": "DISTINCT"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function finds maximum?",
+    "options": ["MAX()", "TOP()", "HIGH()", "PEAK()"],
+    "answer": "MAX()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function finds minimum?",
+    "options": ["MIN()", "LOW()", "BOTTOM()", "SMALL()"],
+    "answer": "MIN()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used for alias?",
+    "options": ["AS", "ALIAS", "NAME", "RENAME"],
+    "answer": "AS"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which clause filters after grouping?",
+    "options": ["HAVING", "WHERE", "GROUP BY", "ORDER BY"],
+    "answer": "HAVING"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator matches pattern?",
+    "options": ["LIKE", "MATCH", "SIMILAR", "SEARCH"],
+    "answer": "LIKE"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword removes duplicates?",
+    "options": ["DISTINCT", "REMOVE", "UNIQUE", "CLEAR"],
+    "answer": "DISTINCT"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword sorts descending?",
+    "options": ["DESC", "ASC", "DOWN", "ORDER"],
+    "answer": "DESC"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword sorts ascending?",
+    "options": ["ASC", "DESC", "UP", "ORDER"],
+    "answer": "ASC"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword combines queries?",
+    "options": ["UNION", "JOIN", "MERGE", "COMBINE"],
+    "answer": "UNION"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is normalization?",
+    "options": ["Reduce redundancy", "Increase redundancy", "Delete data", "Sort data"],
+    "answer": "Reduce redundancy"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which normal form removes partial dependency?",
+    "options": ["2NF", "1NF", "3NF", "BCNF"],
+    "answer": "2NF"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which normal form removes transitive dependency?",
+    "options": ["3NF", "2NF", "1NF", "BCNF"],
+    "answer": "3NF"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which key uniquely identifies row?",
+    "options": ["Primary key", "Foreign key", "Candidate key", "Super key"],
+    "answer": "Primary key"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which key links tables?",
+    "options": ["Foreign key", "Primary key", "Unique key", "Super key"],
+    "answer": "Foreign key"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is index?",
+    "options": ["Speeds up queries", "Deletes data", "Stores data", "Sorts table"],
+    "answer": "Speeds up queries"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which command creates index?",
+    "options": ["CREATE INDEX", "MAKE INDEX", "ADD INDEX", "BUILD INDEX"],
+    "answer": "CREATE INDEX"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is view?",
+    "options": ["Virtual table", "Real table", "Index", "Key"],
+    "answer": "Virtual table"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which command creates view?",
+    "options": ["CREATE VIEW", "MAKE VIEW", "ADD VIEW", "BUILD VIEW"],
+    "answer": "CREATE VIEW"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is stored procedure?",
+    "options": ["Precompiled SQL", "Table", "Index", "View"],
+    "answer": "Precompiled SQL"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which command executes procedure?",
+    "options": ["EXEC", "RUN", "CALL", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is trigger?",
+    "options": ["Automatic action", "Manual query", "Loop", "Index"],
+    "answer": "Automatic action"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which command creates trigger?",
+    "options": ["CREATE TRIGGER", "MAKE TRIGGER", "ADD TRIGGER", "BUILD TRIGGER"],
+    "answer": "CREATE TRIGGER"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is ACID?",
+    "options": ["Transaction properties", "Query type", "Join type", "Key type"],
+    "answer": "Transaction properties"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is deadlock?",
+    "options": ["Processes waiting forever", "Fast execution", "Data redundancy", "Sorting issue"],
+    "answer": "Processes waiting forever"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which command starts transaction?",
+    "options": ["BEGIN", "START", "INIT", "OPEN"],
+    "answer": "BEGIN"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which command saves changes?",
+    "options": ["COMMIT", "SAVE", "STORE", "APPLY"],
+    "answer": "COMMIT"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which command undoes changes?",
+    "options": ["ROLLBACK", "UNDO", "REVERSE", "BACK"],
+    "answer": "ROLLBACK"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which isolation level is strictest?",
+    "options": ["Serializable", "Read Committed", "Read Uncommitted", "Repeatable Read"],
+    "answer": "Serializable"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is subquery?",
+    "options": ["Query inside query", "Outer query", "Join", "View"],
+    "answer": "Query inside query"
+  }
+]

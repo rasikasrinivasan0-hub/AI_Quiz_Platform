@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What does DBMS stand for?",
+    "options": ["Database Management System", "Data Base Managing System", "Database Monitoring System", "Data Managing Service"],
+    "answer": "Database Management System"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which of the following is a DBMS?",
+    "options": ["MySQL", "HTML", "CSS", "HTTP"],
+    "answer": "MySQL"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is a database?",
+    "options": ["Collection of data", "Program", "Software", "Algorithm"],
+    "answer": "Collection of data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which language is used in DBMS?",
+    "options": ["SQL", "C", "Java", "Python"],
+    "answer": "SQL"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which model uses tables?",
+    "options": ["Relational model", "Network model", "Hierarchical model", "Object model"],
+    "answer": "Relational model"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is a table?",
+    "options": ["Collection of rows and columns", "Program", "File", "Key"],
+    "answer": "Collection of rows and columns"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is a row in a table?",
+    "options": ["Record", "Field", "Column", "Key"],
+    "answer": "Record"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is a column in a table?",
+    "options": ["Field", "Row", "Record", "Tuple"],
+    "answer": "Field"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which key uniquely identifies a record?",
+    "options": ["Primary key", "Foreign key", "Unique key", "Composite key"],
+    "answer": "Primary key"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which key links two tables?",
+    "options": ["Foreign key", "Primary key", "Unique key", "Candidate key"],
+    "answer": "Foreign key"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is DBMS used for?",
+    "options": ["Manage data", "Design UI", "Compile code", "Network routing"],
+    "answer": "Manage data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which constraint ensures uniqueness?",
+    "options": ["UNIQUE", "CHECK", "DEFAULT", "NOT NULL"],
+    "answer": "UNIQUE"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which constraint prevents NULL?",
+    "options": ["NOT NULL", "UNIQUE", "CHECK", "PRIMARY KEY"],
+    "answer": "NOT NULL"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type stores numbers?",
+    "options": ["INT", "VARCHAR", "CHAR", "TEXT"],
+    "answer": "INT"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which type stores text?",
+    "options": ["VARCHAR", "INT", "FLOAT", "BOOLEAN"],
+    "answer": "VARCHAR"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is redundancy?",
+    "options": ["Duplicate data", "Unique data", "Sorted data", "Deleted data"],
+    "answer": "Duplicate data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which DBMS model uses tree structure?",
+    "options": ["Hierarchical", "Relational", "Network", "Object"],
+    "answer": "Hierarchical"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which DBMS model uses graph structure?",
+    "options": ["Network", "Relational", "Hierarchical", "Object"],
+    "answer": "Network"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is schema?",
+    "options": ["Database structure", "Data", "Query", "Table"],
+    "answer": "Database structure"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is instance?",
+    "options": ["Actual data", "Structure", "Query", "Constraint"],
+    "answer": "Actual data"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is normalization?",
+    "options": ["Reduce redundancy", "Increase redundancy", "Delete data", "Sort data"],
+    "answer": "Reduce redundancy"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which normal form removes partial dependency?",
+    "options": ["2NF", "1NF", "3NF", "BCNF"],
+    "answer": "2NF"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which normal form removes transitive dependency?",
+    "options": ["3NF", "2NF", "1NF", "BCNF"],
+    "answer": "3NF"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which normal form removes multivalued dependency?",
+    "options": ["4NF", "3NF", "2NF", "1NF"],
+    "answer": "4NF"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is functional dependency?",
+    "options": ["Relation between attributes", "Relation between tables", "Loop", "Constraint"],
+    "answer": "Relation between attributes"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which key is minimal super key?",
+    "options": ["Candidate key", "Primary key", "Foreign key", "Super key"],
+    "answer": "Candidate key"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is super key?",
+    "options": ["Set of attributes identifying record", "Single key", "Foreign key", "Constraint"],
+    "answer": "Set of attributes identifying record"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is ER model?",
+    "options": ["Entity Relationship model", "Execution model", "Error model", "External model"],
+    "answer": "Entity Relationship model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is entity?",
+    "options": ["Real world object", "Query", "Table", "Constraint"],
+    "answer": "Real world object"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is attribute?",
+    "options": ["Property of entity", "Table", "Row", "Key"],
+    "answer": "Property of entity"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is relationship?",
+    "options": ["Association between entities", "Table", "Row", "Column"],
+    "answer": "Association between entities"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cardinality?",
+    "options": ["Number of relationships", "Number of rows", "Number of columns", "Number of keys"],
+    "answer": "Number of relationships"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is indexing?",
+    "options": ["Speed up data retrieval", "Delete data", "Insert data", "Sort data"],
+    "answer": "Speed up data retrieval"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is view?",
+    "options": ["Virtual table", "Real table", "Key", "Index"],
+    "answer": "Virtual table"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is transaction?",
+    "options": ["Unit of work", "Table", "Query", "Constraint"],
+    "answer": "Unit of work"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which property ensures consistency?",
+    "options": ["ACID", "BASE", "CAP", "SQL"],
+    "answer": "ACID"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is concurrency?",
+    "options": ["Multiple users accessing data", "Single user", "Data deletion", "Sorting"],
+    "answer": "Multiple users accessing data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is deadlock?",
+    "options": ["Processes waiting indefinitely", "Fast execution", "Sorting", "Indexing"],
+    "answer": "Processes waiting indefinitely"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is lock?",
+    "options": ["Control concurrent access", "Delete data", "Insert data", "Sort data"],
+    "answer": "Control concurrent access"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which level is highest isolation?",
+    "options": ["Serializable", "Read committed", "Read uncommitted", "Repeatable read"],
+    "answer": "Serializable"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is BCNF?",
+    "options": ["Boyce-Codd Normal Form", "Basic Normal Form", "Binary Normal Form", "Base Normal Form"],
+    "answer": "Boyce-Codd Normal Form"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which anomaly occurs in redundancy?",
+    "options": ["Update anomaly", "Insert anomaly", "Delete anomaly", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is lossless join?",
+    "options": ["No data loss in join", "Data loss", "Delete data", "Sort data"],
+    "answer": "No data loss in join"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is dependency preservation?",
+    "options": ["Maintain dependencies", "Delete dependencies", "Sort dependencies", "Merge dependencies"],
+    "answer": "Maintain dependencies"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is join dependency?",
+    "options": ["Decomposition dependency", "Key", "Constraint", "Index"],
+    "answer": "Decomposition dependency"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is multivalued dependency?",
+    "options": ["Multiple values for attribute", "Single value", "Key", "Constraint"],
+    "answer": "Multiple values for attribute"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is query optimization?",
+    "options": ["Improve query performance", "Delete query", "Sort query", "Merge query"],
+    "answer": "Improve query performance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is execution plan?",
+    "options": ["Steps to execute query", "Query", "Table", "Index"],
+    "answer": "Steps to execute query"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is distributed database?",
+    "options": ["Data across multiple locations", "Single location", "Cloud only", "Local only"],
+    "answer": "Data across multiple locations"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is data warehouse?",
+    "options": ["Central repository", "Temporary storage", "Cache", "Index"],
+    "answer": "Central repository"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is OLAP?",
+    "options": ["Online Analytical Processing", "Online Transaction Processing", "Offline Analysis Process", "Object Layer App"],
+    "answer": "Online Analytical Processing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is OLTP?",
+    "options": ["Online Transaction Processing", "Online Analytical Processing", "Offline Processing", "Object Processing"],
+    "answer": "Online Transaction Processing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is data mining?",
+    "options": ["Extract patterns from data", "Delete data", "Insert data", "Sort data"],
+    "answer": "Extract patterns from data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CAP theorem?",
+    "options": ["Consistency Availability Partition tolerance", "Central Access Protocol", "Common Access Program", "Core Analysis Process"],
+    "answer": "Consistency Availability Partition tolerance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is sharding?",
+    "options": ["Horizontal partitioning", "Vertical partitioning", "Indexing", "Sorting"],
+    "answer": "Horizontal partitioning"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is replication?",
+    "options": ["Copying data", "Deleting data", "Sorting data", "Indexing"],
+    "answer": "Copying data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is checkpoint?",
+    "options": ["Save database state", "Delete state", "Sort state", "Merge state"],
+    "answer": "Save database state"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is log-based recovery?",
+    "options": ["Recover using logs", "Delete logs", "Sort logs", "Merge logs"],
+    "answer": "Recover using logs"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is shadow paging?",
+    "options": ["Recovery technique", "Indexing", "Sorting", "Query"],
+    "answer": "Recovery technique"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is two-phase commit?",
+    "options": ["Distributed transaction protocol", "Query execution", "Sorting method", "Indexing technique"],
+    "answer": "Distributed transaction protocol"
+  }
+]

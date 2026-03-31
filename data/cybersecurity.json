@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is cybersecurity?",
+    "options": ["Protecting systems and data", "Programming", "Networking", "Database"],
+    "answer": "Protecting systems and data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What does CIA stand for in security?",
+    "options": ["Confidentiality Integrity Availability", "Control Integrity Access", "Confidential Internet Access", "Central Information Access"],
+    "answer": "Confidentiality Integrity Availability"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is malware?",
+    "options": ["Malicious software", "Hardware", "Protocol", "Network"],
+    "answer": "Malicious software"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is virus?",
+    "options": ["Self-replicating malware", "Firewall", "Protocol", "Encryption"],
+    "answer": "Self-replicating malware"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is phishing?",
+    "options": ["Fake message attack", "Firewall", "Encryption", "Protocol"],
+    "answer": "Fake message attack"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is firewall?",
+    "options": ["Network security system", "Virus", "Protocol", "Database"],
+    "answer": "Network security system"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is antivirus?",
+    "options": ["Detect malware", "Encrypt data", "Network device", "Protocol"],
+    "answer": "Detect malware"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is password?",
+    "options": ["Authentication secret", "Protocol", "Device", "Data"],
+    "answer": "Authentication secret"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is encryption?",
+    "options": ["Convert data to secure form", "Delete data", "Sort data", "Transfer data"],
+    "answer": "Convert data to secure form"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is decryption?",
+    "options": ["Convert back data", "Encrypt data", "Delete data", "Sort data"],
+    "answer": "Convert back data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is hacker?",
+    "options": ["Person who breaks security", "Programmer", "User", "Admin"],
+    "answer": "Person who breaks security"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is authentication?",
+    "options": ["Verify identity", "Encrypt data", "Delete data", "Sort data"],
+    "answer": "Verify identity"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is authorization?",
+    "options": ["Grant access", "Verify identity", "Encrypt", "Delete"],
+    "answer": "Grant access"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is spam?",
+    "options": ["Unwanted messages", "Virus", "Protocol", "Firewall"],
+    "answer": "Unwanted messages"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is spyware?",
+    "options": ["Collects data secretly", "Firewall", "Encryption", "Protocol"],
+    "answer": "Collects data secretly"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is ransomware?",
+    "options": ["Locks data for money", "Virus", "Firewall", "Protocol"],
+    "answer": "Locks data for money"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is Trojan?",
+    "options": ["Disguised malware", "Firewall", "Protocol", "Encryption"],
+    "answer": "Disguised malware"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is keylogger?",
+    "options": ["Records keystrokes", "Firewall", "Protocol", "Encryption"],
+    "answer": "Records keystrokes"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is OTP?",
+    "options": ["One-time password", "Permanent password", "Protocol", "Encryption"],
+    "answer": "One-time password"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is VPN?",
+    "options": ["Secure connection", "Protocol", "Device", "Firewall"],
+    "answer": "Secure connection"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is symmetric encryption?",
+    "options": ["Same key encryption", "Different key", "No key", "Public key"],
+    "answer": "Same key encryption"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is asymmetric encryption?",
+    "options": ["Public and private key", "Same key", "No key", "Single key"],
+    "answer": "Public and private key"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is hashing?",
+    "options": ["One-way conversion", "Encryption", "Decryption", "Sorting"],
+    "answer": "One-way conversion"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is digital signature?",
+    "options": ["Verify authenticity", "Encrypt data", "Delete data", "Sort data"],
+    "answer": "Verify authenticity"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is SSL?",
+    "options": ["Secure protocol", "Virus", "Firewall", "Database"],
+    "answer": "Secure protocol"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is HTTPS?",
+    "options": ["Secure HTTP", "Protocol", "Firewall", "Database"],
+    "answer": "Secure HTTP"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is brute force attack?",
+    "options": ["Guess passwords", "Phishing", "Malware", "Encryption"],
+    "answer": "Guess passwords"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DoS attack?",
+    "options": ["Overload system", "Encrypt data", "Delete data", "Sort data"],
+    "answer": "Overload system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DDoS?",
+    "options": ["Distributed attack", "Single attack", "Protocol", "Firewall"],
+    "answer": "Distributed attack"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is man-in-the-middle attack?",
+    "options": ["Intercept communication", "Encrypt", "Delete", "Sort"],
+    "answer": "Intercept communication"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is SQL injection?",
+    "options": ["Database attack", "Network attack", "Virus", "Encryption"],
+    "answer": "Database attack"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is XSS?",
+    "options": ["Cross-site scripting", "Cross server scripting", "Protocol", "Firewall"],
+    "answer": "Cross-site scripting"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is CSRF?",
+    "options": ["Cross-site request forgery", "Protocol", "Firewall", "Database"],
+    "answer": "Cross-site request forgery"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is IDS?",
+    "options": ["Intrusion detection system", "Firewall", "Protocol", "Database"],
+    "answer": "Intrusion detection system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is IPS?",
+    "options": ["Intrusion prevention system", "Firewall", "Protocol", "Database"],
+    "answer": "Intrusion prevention system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is vulnerability?",
+    "options": ["Weakness in system", "Strength", "Protocol", "Firewall"],
+    "answer": "Weakness in system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is exploit?",
+    "options": ["Use vulnerability", "Fix bug", "Protocol", "Firewall"],
+    "answer": "Use vulnerability"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is patch?",
+    "options": ["Fix update", "Attack", "Protocol", "Firewall"],
+    "answer": "Fix update"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is sandbox?",
+    "options": ["Isolated environment", "Network", "Protocol", "Firewall"],
+    "answer": "Isolated environment"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is backup?",
+    "options": ["Copy data", "Delete data", "Encrypt", "Sort"],
+    "answer": "Copy data"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is zero-day attack?",
+    "options": ["Unknown vulnerability", "Known attack", "Patch", "Firewall"],
+    "answer": "Unknown vulnerability"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is rootkit?",
+    "options": ["Hidden malware", "Firewall", "Protocol", "Database"],
+    "answer": "Hidden malware"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is botnet?",
+    "options": ["Network of infected devices", "Firewall", "Protocol", "Database"],
+    "answer": "Network of infected devices"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is social engineering?",
+    "options": ["Manipulating people", "Programming", "Networking", "Database"],
+    "answer": "Manipulating people"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is penetration testing?",
+    "options": ["Ethical hacking", "Attack", "Firewall", "Protocol"],
+    "answer": "Ethical hacking"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is ethical hacking?",
+    "options": ["Legal hacking", "Illegal hacking", "Attack", "Protocol"],
+    "answer": "Legal hacking"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SIEM?",
+    "options": ["Security monitoring system", "Firewall", "Protocol", "Database"],
+    "answer": "Security monitoring system"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is PKI?",
+    "options": ["Public key infrastructure", "Protocol", "Firewall", "Database"],
+    "answer": "Public key infrastructure"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is certificate?",
+    "options": ["Digital identity", "Protocol", "Firewall", "Database"],
+    "answer": "Digital identity"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is TLS?",
+    "options": ["Secure communication protocol", "Virus", "Firewall", "Database"],
+    "answer": "Secure communication protocol"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is HMAC?",
+    "options": ["Hash-based authentication", "Encryption", "Protocol", "Firewall"],
+    "answer": "Hash-based authentication"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is AES?",
+    "options": ["Encryption algorithm", "Protocol", "Firewall", "Database"],
+    "answer": "Encryption algorithm"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is RSA?",
+    "options": ["Asymmetric encryption", "Symmetric", "Protocol", "Firewall"],
+    "answer": "Asymmetric encryption"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is digital certificate authority?",
+    "options": ["Issues certificates", "Firewall", "Protocol", "Database"],
+    "answer": "Issues certificates"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is steganography?",
+    "options": ["Hide data in media", "Encrypt", "Delete", "Sort"],
+    "answer": "Hide data in media"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is honeypot?",
+    "options": ["Trap attackers", "Firewall", "Protocol", "Database"],
+    "answer": "Trap attackers"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is air gap?",
+    "options": ["Isolated system", "Network", "Protocol", "Firewall"],
+    "answer": "Isolated system"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is threat model?",
+    "options": ["Identify risks", "Attack", "Protocol", "Firewall"],
+    "answer": "Identify risks"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is least privilege?",
+    "options": ["Minimum access", "Full access", "No access", "Protocol"],
+    "answer": "Minimum access"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is zero trust?",
+    "options": ["Never trust always verify", "Trust all", "No trust", "Protocol"],
+    "answer": "Never trust always verify"
+  }
+]

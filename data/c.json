@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "Who is the father of C programming?",
+    "options": ["Dennis Ritchie", "James Gosling", "Bjarne Stroustrup", "Guido van Rossum"],
+    "answer": "Dennis Ritchie"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used for single-line comments in C?",
+    "options": ["//", "/* */", "#", "--"],
+    "answer": "//"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is the extension of C source file?",
+    "options": [".c", ".cpp", ".java", ".py"],
+    "answer": ".c"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function is used to print output in C?",
+    "options": ["printf()", "scanf()", "print()", "cout"],
+    "answer": "printf()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to declare a variable?",
+    "options": ["int", "var", "let", "define"],
+    "answer": "int"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which header file is required for printf()?",
+    "options": ["stdio.h", "stdlib.h", "math.h", "string.h"],
+    "answer": "stdio.h"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for addition?",
+    "options": ["+", "-", "*", "/"],
+    "answer": "+"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which data type is used to store a character?",
+    "options": ["char", "int", "float", "double"],
+    "answer": "char"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which loop is guaranteed to execute at least once?",
+    "options": ["do-while", "for", "while", "none"],
+    "answer": "do-while"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used to terminate a statement?",
+    "options": [";", ":", ".", ","],
+    "answer": ";"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function is used to read input?",
+    "options": ["scanf()", "input()", "read()", "cin"],
+    "answer": "scanf()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used for decision making?",
+    "options": ["if", "for", "while", "switch"],
+    "answer": "if"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is the size of int (typically)?",
+    "options": ["4 bytes", "2 bytes", "8 bytes", "1 byte"],
+    "answer": "4 bytes"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to exit a loop?",
+    "options": ["break", "exit", "stop", "return"],
+    "answer": "break"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for equality check?",
+    "options": ["==", "=", "!=", ">"],
+    "answer": "=="
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which symbol is used for block of code?",
+    "options": ["{}", "()", "[]", "<>"],
+    "answer": "{}"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to define a constant?",
+    "options": ["const", "final", "static", "define"],
+    "answer": "const"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which operator is used for multiplication?",
+    "options": ["*", "+", "-", "/"],
+    "answer": "*"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which function is used to return length of string?",
+    "options": ["strlen()", "length()", "size()", "count()"],
+    "answer": "strlen()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword is used to return value from function?",
+    "options": ["return", "break", "exit", "stop"],
+    "answer": "return"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is the output of printf(\"%d\", 5+2*3);?",
+    "options": ["11", "21", "16", "10"],
+    "answer": "11"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which storage class has local scope?",
+    "options": ["auto", "extern", "static", "register"],
+    "answer": "auto"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is the default value of a static variable?",
+    "options": ["0", "1", "Garbage", "NULL"],
+    "answer": "0"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator is used to access value at address?",
+    "options": ["*", "&", "%", "#"],
+    "answer": "*"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is the output of int x=5; printf(\"%d\", x++);?",
+    "options": ["5", "6", "4", "Error"],
+    "answer": "5"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword is used for structure?",
+    "options": ["struct", "class", "record", "union"],
+    "answer": "struct"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is pointer?",
+    "options": ["Variable storing address", "Function", "Array", "Loop"],
+    "answer": "Variable storing address"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function allocates memory dynamically?",
+    "options": ["malloc()", "alloc()", "new()", "create()"],
+    "answer": "malloc()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is sizeof(char)?",
+    "options": ["1", "2", "4", "8"],
+    "answer": "1"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which loop is best when iterations are known?",
+    "options": ["for", "while", "do-while", "none"],
+    "answer": "for"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function is used to free memory?",
+    "options": ["free()", "delete()", "remove()", "clear()"],
+    "answer": "free()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is array index starting value?",
+    "options": ["0", "1", "-1", "Depends"],
+    "answer": "0"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is the output of printf(\"%d\", 10/3);?",
+    "options": ["3", "3.33", "4", "Error"],
+    "answer": "3"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which header file is for string functions?",
+    "options": ["string.h", "stdio.h", "math.h", "stdlib.h"],
+    "answer": "string.h"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which symbol is address-of operator?",
+    "options": ["&", "*", "#", "%"],
+    "answer": "&"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which function compares two strings?",
+    "options": ["strcmp()", "compare()", "strcomp()", "equal()"],
+    "answer": "strcmp()"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is recursion?",
+    "options": ["Function calling itself", "Loop", "Array", "Pointer"],
+    "answer": "Function calling itself"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which keyword stops switch case?",
+    "options": ["break", "stop", "exit", "return"],
+    "answer": "break"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which data type is used for decimal?",
+    "options": ["float", "int", "char", "void"],
+    "answer": "float"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which operator is modulus?",
+    "options": ["%", "/", "*", "+"],
+    "answer": "%"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is the output of int x=3; printf(\"%d\", x++ + ++x);?",
+    "options": ["8", "7", "9", "Undefined"],
+    "answer": "Undefined"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which concept allows function overloading in C?",
+    "options": ["Not supported", "Pointers", "Structures", "Macros"],
+    "answer": "Not supported"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is dangling pointer?",
+    "options": ["Pointer to freed memory", "Null pointer", "Wild pointer", "Valid pointer"],
+    "answer": "Pointer to freed memory"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function reallocates memory?",
+    "options": ["realloc()", "malloc()", "calloc()", "free()"],
+    "answer": "realloc()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is segmentation fault?",
+    "options": ["Invalid memory access", "Syntax error", "Compile error", "Link error"],
+    "answer": "Invalid memory access"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is the output of printf(\"%d\", sizeof(int*));?",
+    "options": ["4 or 8", "2", "1", "Depends on compiler"],
+    "answer": "4 or 8"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which operator has highest precedence?",
+    "options": ["()", "*", "+", "="],
+    "answer": "()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is volatile keyword?",
+    "options": ["Prevents optimization", "Creates constant", "Defines pointer", "Allocates memory"],
+    "answer": "Prevents optimization"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function opens file?",
+    "options": ["fopen()", "open()", "fileopen()", "read()"],
+    "answer": "fopen()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which mode opens file for append?",
+    "options": ["a", "r", "w", "rw"],
+    "answer": "a"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is union?",
+    "options": ["Shared memory structure", "Array", "Pointer", "Loop"],
+    "answer": "Shared memory structure"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is macro?",
+    "options": ["Preprocessor directive", "Function", "Variable", "Loop"],
+    "answer": "Preprocessor directive"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which directive includes file?",
+    "options": ["#include", "#define", "#if", "#endif"],
+    "answer": "#include"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is call by value?",
+    "options": ["Copy of variable passed", "Address passed", "Pointer passed", "Reference passed"],
+    "answer": "Copy of variable passed"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is call by reference?",
+    "options": ["Address passed", "Value passed", "Copy passed", "None"],
+    "answer": "Address passed"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function reads file?",
+    "options": ["fscanf()", "scanf()", "read()", "input()"],
+    "answer": "fscanf()"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is infinite loop?",
+    "options": ["Loop never ends", "Loop ends", "Conditional loop", "Finite loop"],
+    "answer": "Loop never ends"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which operator is ternary?",
+    "options": ["?:", "??", "::", "##"],
+    "answer": "?:"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which keyword defines enumeration?",
+    "options": ["enum", "struct", "union", "typedef"],
+    "answer": "enum"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which function closes file?",
+    "options": ["fclose()", "close()", "end()", "stop()"],
+    "answer": "fclose()"
+  }
+]

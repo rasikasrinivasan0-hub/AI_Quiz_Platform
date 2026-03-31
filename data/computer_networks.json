@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is a computer network?",
+    "options": ["Connected computers", "Single computer", "Hardware device", "Software"],
+    "answer": "Connected computers"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which device connects networks?",
+    "options": ["Router", "Keyboard", "Mouse", "Monitor"],
+    "answer": "Router"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which device connects devices in LAN?",
+    "options": ["Switch", "Router", "Modem", "Hub"],
+    "answer": "Switch"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which topology uses central node?",
+    "options": ["Star", "Ring", "Bus", "Mesh"],
+    "answer": "Star"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which topology forms loop?",
+    "options": ["Ring", "Star", "Bus", "Tree"],
+    "answer": "Ring"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which protocol is used for web?",
+    "options": ["HTTP", "FTP", "SMTP", "TCP"],
+    "answer": "HTTP"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which protocol is used for email?",
+    "options": ["SMTP", "HTTP", "FTP", "TCP"],
+    "answer": "SMTP"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is IP address?",
+    "options": ["Unique identifier", "Protocol", "Device", "Cable"],
+    "answer": "Unique identifier"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which layer is physical?",
+    "options": ["Layer 1", "Layer 2", "Layer 3", "Layer 4"],
+    "answer": "Layer 1"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which layer handles routing?",
+    "options": ["Network layer", "Transport", "Data link", "Application"],
+    "answer": "Network layer"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is LAN?",
+    "options": ["Local Area Network", "Large Area Network", "Line Area Network", "Long Area Network"],
+    "answer": "Local Area Network"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is WAN?",
+    "options": ["Wide Area Network", "Wireless Area Network", "Web Area Network", "Work Area Network"],
+    "answer": "Wide Area Network"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which cable is used in LAN?",
+    "options": ["Ethernet", "Coaxial", "Fiber", "Twisted pair"],
+    "answer": "Twisted pair"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is bandwidth?",
+    "options": ["Data transfer rate", "Storage", "Latency", "Protocol"],
+    "answer": "Data transfer rate"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is protocol?",
+    "options": ["Communication rules", "Device", "Cable", "Software"],
+    "answer": "Communication rules"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which layer handles data transfer?",
+    "options": ["Transport", "Physical", "Application", "Session"],
+    "answer": "Transport"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is MAC address?",
+    "options": ["Hardware address", "IP address", "Protocol", "Device"],
+    "answer": "Hardware address"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which device broadcasts data?",
+    "options": ["Hub", "Switch", "Router", "Bridge"],
+    "answer": "Hub"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is DNS?",
+    "options": ["Domain Name System", "Data Network System", "Device Name Service", "Domain Network Service"],
+    "answer": "Domain Name System"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is URL?",
+    "options": ["Web address", "IP address", "Protocol", "Device"],
+    "answer": "Web address"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is OSI model?",
+    "options": ["7-layer model", "5-layer", "3-layer", "2-layer"],
+    "answer": "7-layer model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which layer handles encryption?",
+    "options": ["Presentation", "Application", "Session", "Transport"],
+    "answer": "Presentation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which layer manages sessions?",
+    "options": ["Session", "Transport", "Network", "Data link"],
+    "answer": "Session"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is TCP?",
+    "options": ["Reliable protocol", "Unreliable", "Routing", "Addressing"],
+    "answer": "Reliable protocol"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is UDP?",
+    "options": ["Unreliable protocol", "Reliable", "Routing", "Addressing"],
+    "answer": "Unreliable protocol"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is port number?",
+    "options": ["Application identifier", "Device id", "Protocol", "Cable"],
+    "answer": "Application identifier"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is packet?",
+    "options": ["Data unit", "File", "Device", "Protocol"],
+    "answer": "Data unit"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is frame?",
+    "options": ["Data link unit", "Network unit", "Transport", "Application"],
+    "answer": "Data link unit"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is subnet?",
+    "options": ["Network division", "Device", "Protocol", "Cable"],
+    "answer": "Network division"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is gateway?",
+    "options": ["Connect different networks", "Switch", "Hub", "Bridge"],
+    "answer": "Connect different networks"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is firewall?",
+    "options": ["Security system", "Router", "Switch", "Hub"],
+    "answer": "Security system"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is NAT?",
+    "options": ["Network address translation", "Routing", "Switching", "Firewall"],
+    "answer": "Network address translation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DHCP?",
+    "options": ["Assign IP automatically", "Routing", "Switching", "Firewall"],
+    "answer": "Assign IP automatically"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is ARP?",
+    "options": ["IP to MAC mapping", "MAC to IP", "Routing", "Switching"],
+    "answer": "IP to MAC mapping"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is ICMP?",
+    "options": ["Error reporting", "Routing", "Switching", "Data transfer"],
+    "answer": "Error reporting"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is throughput?",
+    "options": ["Actual data rate", "Bandwidth", "Latency", "Delay"],
+    "answer": "Actual data rate"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is latency?",
+    "options": ["Delay", "Speed", "Bandwidth", "Packet"],
+    "answer": "Delay"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is jitter?",
+    "options": ["Delay variation", "Speed", "Bandwidth", "Packet"],
+    "answer": "Delay variation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is routing?",
+    "options": ["Path selection", "Switching", "Broadcast", "Filtering"],
+    "answer": "Path selection"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is switching?",
+    "options": ["Forward frames", "Routing", "Broadcast", "Filter"],
+    "answer": "Forward frames"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is TCP 3-way handshake?",
+    "options": ["Connection setup", "Data transfer", "Error", "Routing"],
+    "answer": "Connection setup"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is congestion control?",
+    "options": ["Control network traffic", "Increase traffic", "Routing", "Switching"],
+    "answer": "Control network traffic"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is sliding window?",
+    "options": ["Flow control method", "Routing", "Switching", "Protocol"],
+    "answer": "Flow control method"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is flow control?",
+    "options": ["Control data rate", "Routing", "Switching", "Protocol"],
+    "answer": "Control data rate"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is error control?",
+    "options": ["Detect/correct errors", "Routing", "Switching", "Protocol"],
+    "answer": "Detect/correct errors"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CRC?",
+    "options": ["Error detection", "Routing", "Switching", "Protocol"],
+    "answer": "Error detection"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is IPv4?",
+    "options": ["32-bit address", "64-bit", "128-bit", "16-bit"],
+    "answer": "32-bit address"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is IPv6?",
+    "options": ["128-bit address", "32-bit", "64-bit", "16-bit"],
+    "answer": "128-bit address"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is fragmentation?",
+    "options": ["Split packets", "Merge packets", "Delete packets", "Route packets"],
+    "answer": "Split packets"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is tunneling?",
+    "options": ["Encapsulation", "Routing", "Switching", "Protocol"],
+    "answer": "Encapsulation"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is QoS?",
+    "options": ["Quality of service", "Speed", "Latency", "Protocol"],
+    "answer": "Quality of service"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is VPN?",
+    "options": ["Secure network", "Public network", "LAN", "WAN"],
+    "answer": "Secure network"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is MPLS?",
+    "options": ["Label switching", "Routing", "Switching", "Protocol"],
+    "answer": "Label switching"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is BGP?",
+    "options": ["Routing protocol", "Switching", "Transport", "Application"],
+    "answer": "Routing protocol"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is OSPF?",
+    "options": ["Routing protocol", "Switching", "Transport", "Application"],
+    "answer": "Routing protocol"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is DNS caching?",
+    "options": ["Store DNS results", "Delete data", "Routing", "Switching"],
+    "answer": "Store DNS results"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is load balancing?",
+    "options": ["Distribute traffic", "Increase load", "Routing", "Switching"],
+    "answer": "Distribute traffic"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SDN?",
+    "options": ["Software defined networking", "Static network", "Secure network", "Switching"],
+    "answer": "Software defined networking"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CDN?",
+    "options": ["Content delivery network", "Core data network", "Control data network", "None"],
+    "answer": "Content delivery network"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is packet switching?",
+    "options": ["Divide data into packets", "Circuit switching", "Routing", "Protocol"],
+    "answer": "Divide data into packets"
+  }
+]

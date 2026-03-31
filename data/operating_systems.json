@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is an operating system?",
+    "options": ["Interface between user and hardware", "Application software", "Compiler", "Database"],
+    "answer": "Interface between user and hardware"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is an OS?",
+    "options": ["Windows", "HTML", "CSS", "Python"],
+    "answer": "Windows"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is kernel?",
+    "options": ["Core of OS", "Application", "Hardware", "Memory"],
+    "answer": "Core of OS"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which OS is open source?",
+    "options": ["Linux", "Windows", "macOS", "iOS"],
+    "answer": "Linux"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is process?",
+    "options": ["Program in execution", "Program", "Thread", "File"],
+    "answer": "Program in execution"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is thread?",
+    "options": ["Lightweight process", "Heavy process", "File", "Program"],
+    "answer": "Lightweight process"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which scheduling is simplest?",
+    "options": ["FCFS", "SJF", "Priority", "Round Robin"],
+    "answer": "FCFS"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which scheduling uses time slice?",
+    "options": ["Round Robin", "FCFS", "SJF", "Priority"],
+    "answer": "Round Robin"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is deadlock?",
+    "options": ["Processes waiting forever", "Fast execution", "Error", "Memory leak"],
+    "answer": "Processes waiting forever"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is memory?",
+    "options": ["Stores data", "Executes code", "Controls CPU", "Input device"],
+    "answer": "Stores data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is RAM?",
+    "options": ["Volatile memory", "Non-volatile", "Disk", "Cache"],
+    "answer": "Volatile memory"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is ROM?",
+    "options": ["Non-volatile memory", "Volatile", "Cache", "Register"],
+    "answer": "Non-volatile memory"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is file?",
+    "options": ["Collection of data", "Process", "Thread", "Memory"],
+    "answer": "Collection of data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which is system call?",
+    "options": ["read()", "printf()", "main()", "int"],
+    "answer": "read()"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is I/O?",
+    "options": ["Input/Output", "Internal Output", "Input Only", "Output Only"],
+    "answer": "Input/Output"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is multitasking?",
+    "options": ["Multiple tasks", "Single task", "No task", "Background task"],
+    "answer": "Multiple tasks"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is GUI?",
+    "options": ["Graphical User Interface", "General User Input", "Graph Unit Interface", "None"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is CLI?",
+    "options": ["Command Line Interface", "Control Line Interface", "Command Logic Interface", "None"],
+    "answer": "Command Line Interface"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is booting?",
+    "options": ["Starting system", "Shutting down", "Restarting app", "Memory clearing"],
+    "answer": "Starting system"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is scheduler?",
+    "options": ["Selects process", "Stores data", "Controls memory", "I/O device"],
+    "answer": "Selects process"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is SJF?",
+    "options": ["Shortest Job First", "Simple Job First", "System Job First", "None"],
+    "answer": "Shortest Job First"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is priority scheduling?",
+    "options": ["Based on priority", "Time slice", "Arrival", "None"],
+    "answer": "Based on priority"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is starvation?",
+    "options": ["Process waits indefinitely", "Deadlock", "Error", "Crash"],
+    "answer": "Process waits indefinitely"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is paging?",
+    "options": ["Fixed memory blocks", "Variable blocks", "Cache", "Register"],
+    "answer": "Fixed memory blocks"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is segmentation?",
+    "options": ["Variable memory blocks", "Fixed", "Cache", "Register"],
+    "answer": "Variable memory blocks"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is virtual memory?",
+    "options": ["Extension of RAM", "Cache", "Register", "ROM"],
+    "answer": "Extension of RAM"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is page fault?",
+    "options": ["Page not in memory", "Page in memory", "Cache hit", "Cache miss"],
+    "answer": "Page not in memory"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is thrashing?",
+    "options": ["Excessive paging", "Fast execution", "Deadlock", "Error"],
+    "answer": "Excessive paging"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is semaphore?",
+    "options": ["Synchronization tool", "Memory", "Process", "File"],
+    "answer": "Synchronization tool"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is mutex?",
+    "options": ["Mutual exclusion", "Memory", "Process", "File"],
+    "answer": "Mutual exclusion"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is critical section?",
+    "options": ["Shared code", "Memory", "Process", "File"],
+    "answer": "Shared code"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is context switch?",
+    "options": ["Switch process", "Memory", "File", "Thread"],
+    "answer": "Switch process"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is IPC?",
+    "options": ["Inter-process communication", "Input process control", "Internal process code", "None"],
+    "answer": "Inter-process communication"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is pipe?",
+    "options": ["IPC mechanism", "Memory", "File", "Process"],
+    "answer": "IPC mechanism"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is socket?",
+    "options": ["Communication endpoint", "Memory", "File", "Process"],
+    "answer": "Communication endpoint"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is file system?",
+    "options": ["Manage files", "Process", "Memory", "Thread"],
+    "answer": "Manage files"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is directory?",
+    "options": ["Folder", "File", "Process", "Memory"],
+    "answer": "Folder"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is disk scheduling?",
+    "options": ["Manage disk requests", "Memory", "CPU", "File"],
+    "answer": "Manage disk requests"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is FCFS disk scheduling?",
+    "options": ["First come first serve", "Shortest", "Priority", "None"],
+    "answer": "First come first serve"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is SSTF?",
+    "options": ["Shortest seek time first", "Simple", "System", "None"],
+    "answer": "Shortest seek time first"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is Banker's algorithm?",
+    "options": ["Deadlock avoidance", "Scheduling", "Memory", "File"],
+    "answer": "Deadlock avoidance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is safe state?",
+    "options": ["No deadlock", "Deadlock", "Error", "Crash"],
+    "answer": "No deadlock"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is unsafe state?",
+    "options": ["May lead to deadlock", "Safe", "Error", "Crash"],
+    "answer": "May lead to deadlock"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is demand paging?",
+    "options": ["Load pages on demand", "Load all", "No load", "Cache"],
+    "answer": "Load pages on demand"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is LRU?",
+    "options": ["Least recently used", "Most used", "First used", "None"],
+    "answer": "Least recently used"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is FIFO page replacement?",
+    "options": ["First in first out", "Last in", "Priority", "None"],
+    "answer": "First in first out"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is optimal page replacement?",
+    "options": ["Best replacement", "Worst", "Random", "None"],
+    "answer": "Best replacement"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is working set?",
+    "options": ["Active pages", "All pages", "Memory", "File"],
+    "answer": "Active pages"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is disk seek time?",
+    "options": ["Time to move head", "Transfer time", "Access time", "Delay"],
+    "answer": "Time to move head"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is rotational latency?",
+    "options": ["Wait for sector", "Seek time", "Transfer", "Delay"],
+    "answer": "Wait for sector"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SCAN?",
+    "options": ["Elevator algorithm", "FCFS", "SJF", "None"],
+    "answer": "Elevator algorithm"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is C-SCAN?",
+    "options": ["Circular SCAN", "SCAN", "FCFS", "None"],
+    "answer": "Circular SCAN"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is inode?",
+    "options": ["File metadata", "File data", "Process", "Memory"],
+    "answer": "File metadata"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is journaling?",
+    "options": ["Log file system", "Cache", "Memory", "Process"],
+    "answer": "Log file system"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is RAID?",
+    "options": ["Disk array", "Memory", "Process", "File"],
+    "answer": "Disk array"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is virtualization?",
+    "options": ["Virtual machines", "Real machines", "Memory", "Process"],
+    "answer": "Virtual machines"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is hypervisor?",
+    "options": ["VM manager", "OS", "Process", "Memory"],
+    "answer": "VM manager"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is container?",
+    "options": ["Lightweight virtualization", "VM", "OS", "Process"],
+    "answer": "Lightweight virtualization"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is real-time OS?",
+    "options": ["Time-critical system", "Normal OS", "Batch OS", "None"],
+    "answer": "Time-critical system"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is distributed OS?",
+    "options": ["Multiple systems", "Single system", "None", "Local OS"],
+    "answer": "Multiple systems"
+  }
+]

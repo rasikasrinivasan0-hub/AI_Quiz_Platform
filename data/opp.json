@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is OOP?",
+    "options": ["Object-Oriented Programming", "Object Order Program", "Only Object Programming", "Ordered Operation Programming"],
+    "answer": "Object-Oriented Programming"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is an object?",
+    "options": ["Instance of class", "Function", "Variable", "Loop"],
+    "answer": "Instance of class"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is a class?",
+    "options": ["Blueprint of object", "Function", "Variable", "Loop"],
+    "answer": "Blueprint of object"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which concept hides data?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Abstraction"],
+    "answer": "Encapsulation"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which concept allows reuse?",
+    "options": ["Inheritance", "Encapsulation", "Polymorphism", "Abstraction"],
+    "answer": "Inheritance"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which concept allows multiple forms?",
+    "options": ["Polymorphism", "Encapsulation", "Inheritance", "Abstraction"],
+    "answer": "Polymorphism"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which concept hides implementation?",
+    "options": ["Abstraction", "Encapsulation", "Inheritance", "Polymorphism"],
+    "answer": "Abstraction"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword creates object (common)?",
+    "options": ["new", "create", "object", "class"],
+    "answer": "new"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is constructor?",
+    "options": ["Special method", "Variable", "Loop", "Class"],
+    "answer": "Special method"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is destructor?",
+    "options": ["Destroys object", "Creates object", "Loop", "Function"],
+    "answer": "Destroys object"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is method?",
+    "options": ["Function in class", "Variable", "Loop", "Object"],
+    "answer": "Function in class"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is attribute?",
+    "options": ["Property of object", "Function", "Loop", "Class"],
+    "answer": "Property of object"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which access specifier is public?",
+    "options": ["public", "private", "protected", "default"],
+    "answer": "public"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which access specifier is private?",
+    "options": ["private", "public", "protected", "default"],
+    "answer": "private"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword refers current object?",
+    "options": ["this", "self", "current", "object"],
+    "answer": "this"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which keyword refers parent class?",
+    "options": ["super", "this", "parent", "base"],
+    "answer": "super"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is instance variable?",
+    "options": ["Variable of object", "Static variable", "Global variable", "Local variable"],
+    "answer": "Variable of object"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is static variable?",
+    "options": ["Shared variable", "Local", "Private", "Public"],
+    "answer": "Shared variable"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which concept binds data and method?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Abstraction"],
+    "answer": "Encapsulation"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which concept improves security?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Abstraction"],
+    "answer": "Encapsulation"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is method overloading?",
+    "options": ["Same name different parameters", "Same name same parameters", "Different name same parameters", "None"],
+    "answer": "Same name different parameters"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is method overriding?",
+    "options": ["Redefine method in subclass", "Overload method", "Delete method", "Create method"],
+    "answer": "Redefine method in subclass"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is runtime polymorphism?",
+    "options": ["Method overriding", "Method overloading", "Inheritance", "Encapsulation"],
+    "answer": "Method overriding"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is compile-time polymorphism?",
+    "options": ["Method overloading", "Overriding", "Inheritance", "Encapsulation"],
+    "answer": "Method overloading"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is abstract class?",
+    "options": ["Cannot instantiate", "Normal class", "Object", "Function"],
+    "answer": "Cannot instantiate"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is interface?",
+    "options": ["Abstract methods only", "Concrete class", "Variable", "Loop"],
+    "answer": "Abstract methods only"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is multiple inheritance?",
+    "options": ["Multiple parents", "Single parent", "No parent", "Object"],
+    "answer": "Multiple parents"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is hierarchical inheritance?",
+    "options": ["One parent multiple child", "Multiple parent", "Single child", "None"],
+    "answer": "One parent multiple child"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is multilevel inheritance?",
+    "options": ["Chain inheritance", "Single level", "Multiple parent", "None"],
+    "answer": "Chain inheritance"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is association?",
+    "options": ["Relationship between classes", "Inheritance", "Encapsulation", "Polymorphism"],
+    "answer": "Relationship between classes"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is aggregation?",
+    "options": ["Weak relationship", "Strong relationship", "Inheritance", "None"],
+    "answer": "Weak relationship"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is composition?",
+    "options": ["Strong relationship", "Weak relationship", "Inheritance", "None"],
+    "answer": "Strong relationship"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is dynamic binding?",
+    "options": ["Runtime binding", "Compile time", "Static binding", "None"],
+    "answer": "Runtime binding"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is static binding?",
+    "options": ["Compile time binding", "Runtime", "Dynamic", "None"],
+    "answer": "Compile time binding"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is encapsulation benefit?",
+    "options": ["Data hiding", "Slow performance", "More bugs", "None"],
+    "answer": "Data hiding"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is abstraction benefit?",
+    "options": ["Hide complexity", "Increase complexity", "Slow", "None"],
+    "answer": "Hide complexity"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is polymorphism benefit?",
+    "options": ["Flexibility", "Slow", "Memory waste", "None"],
+    "answer": "Flexibility"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is inheritance benefit?",
+    "options": ["Code reuse", "Slow", "Memory waste", "None"],
+    "answer": "Code reuse"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is constructor overloading?",
+    "options": ["Multiple constructors", "Single constructor", "No constructor", "Delete constructor"],
+    "answer": "Multiple constructors"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is default constructor?",
+    "options": ["No parameter constructor", "Parameterized", "Private", "Static"],
+    "answer": "No parameter constructor"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is diamond problem?",
+    "options": ["Multiple inheritance ambiguity", "Single inheritance", "No inheritance", "Loop"],
+    "answer": "Multiple inheritance ambiguity"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which solves diamond problem?",
+    "options": ["Virtual inheritance", "Encapsulation", "Abstraction", "Polymorphism"],
+    "answer": "Virtual inheritance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is pure virtual function?",
+    "options": ["Abstract method", "Concrete method", "Static method", "Private method"],
+    "answer": "Abstract method"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is final class?",
+    "options": ["Cannot inherit", "Can inherit", "Abstract", "Interface"],
+    "answer": "Cannot inherit"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is immutable object?",
+    "options": ["Cannot change", "Can change", "Dynamic", "Static"],
+    "answer": "Cannot change"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is deep copy?",
+    "options": ["Copy full object", "Reference copy", "Pointer copy", "None"],
+    "answer": "Copy full object"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is shallow copy?",
+    "options": ["Copy reference", "Copy full object", "Deep copy", "None"],
+    "answer": "Copy reference"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is operator overloading?",
+    "options": ["Custom operator behavior", "Method overloading", "Inheritance", "None"],
+    "answer": "Custom operator behavior"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is friend function?",
+    "options": ["Access private members", "Public function", "Static function", "None"],
+    "answer": "Access private members"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is virtual function?",
+    "options": ["Runtime polymorphism", "Compile time", "Static", "None"],
+    "answer": "Runtime polymorphism"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is late binding?",
+    "options": ["Runtime binding", "Compile time", "Static binding", "None"],
+    "answer": "Runtime binding"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is early binding?",
+    "options": ["Compile time binding", "Runtime", "Dynamic", "None"],
+    "answer": "Compile time binding"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SOLID principle?",
+    "options": ["Design principles", "Code", "Test", "Loop"],
+    "answer": "Design principles"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is single responsibility principle?",
+    "options": ["One responsibility", "Multiple", "None", "Loop"],
+    "answer": "One responsibility"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is open/closed principle?",
+    "options": ["Open for extension", "Closed for modification", "Both", "None"],
+    "answer": "Both"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Liskov principle?",
+    "options": ["Subclass substitution", "Encapsulation", "Abstraction", "None"],
+    "answer": "Subclass substitution"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is interface segregation?",
+    "options": ["Small interfaces", "Large interfaces", "None", "Loop"],
+    "answer": "Small interfaces"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is dependency inversion?",
+    "options": ["Depend on abstraction", "Depend on concrete", "None", "Loop"],
+    "answer": "Depend on abstraction"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is design pattern?",
+    "options": ["Reusable solution", "Code", "Bug", "Test"],
+    "answer": "Reusable solution"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is singleton pattern?",
+    "options": ["Single instance", "Multiple instance", "No instance", "Loop"],
+    "answer": "Single instance"
+  }
+]

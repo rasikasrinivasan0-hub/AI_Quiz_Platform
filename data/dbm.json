@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is DBMS?",
+    "options": ["Database Management System", "Data Backup System", "Data Base Machine", "None"],
+    "answer": "Database Management System"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is database?",
+    "options": ["Collection of data", "Program", "Code", "Network"],
+    "answer": "Collection of data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which language is used for DB?",
+    "options": ["SQL", "HTML", "CSS", "C"],
+    "answer": "SQL"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is table?",
+    "options": ["Data in rows and columns", "Program", "Code", "None"],
+    "answer": "Data in rows and columns"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is row?",
+    "options": ["Record", "Column", "Table", "None"],
+    "answer": "Record"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is column?",
+    "options": ["Field", "Row", "Table", "None"],
+    "answer": "Field"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is primary key?",
+    "options": ["Unique identifier", "Duplicate", "Null", "None"],
+    "answer": "Unique identifier"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is foreign key?",
+    "options": ["Reference key", "Primary key", "Unique key", "None"],
+    "answer": "Reference key"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is NULL?",
+    "options": ["No value", "Zero", "Empty string", "None"],
+    "answer": "No value"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is constraint?",
+    "options": ["Rule on data", "Data", "Table", "None"],
+    "answer": "Rule on data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is SELECT?",
+    "options": ["Retrieve data", "Insert", "Delete", "Update"],
+    "answer": "Retrieve data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is INSERT?",
+    "options": ["Add data", "Delete", "Update", "Select"],
+    "answer": "Add data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is UPDATE?",
+    "options": ["Modify data", "Insert", "Delete", "Select"],
+    "answer": "Modify data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is DELETE?",
+    "options": ["Remove data", "Insert", "Update", "Select"],
+    "answer": "Remove data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is schema?",
+    "options": ["Structure of DB", "Data", "Table", "None"],
+    "answer": "Structure of DB"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is index?",
+    "options": ["Speed up queries", "Data", "Table", "None"],
+    "answer": "Speed up queries"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is view?",
+    "options": ["Virtual table", "Real table", "Index", "None"],
+    "answer": "Virtual table"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is join?",
+    "options": ["Combine tables", "Delete", "Insert", "None"],
+    "answer": "Combine tables"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is WHERE?",
+    "options": ["Filter data", "Insert", "Delete", "None"],
+    "answer": "Filter data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is ORDER BY?",
+    "options": ["Sort data", "Delete", "Insert", "None"],
+    "answer": "Sort data"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is normalization?",
+    "options": ["Reduce redundancy", "Increase data", "Delete data", "None"],
+    "answer": "Reduce redundancy"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is 1NF?",
+    "options": ["No repeating groups", "Partial dependency", "Transitive", "None"],
+    "answer": "No repeating groups"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is 2NF?",
+    "options": ["No partial dependency", "Repeating", "Transitive", "None"],
+    "answer": "No partial dependency"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is 3NF?",
+    "options": ["No transitive dependency", "Partial", "Repeating", "None"],
+    "answer": "No transitive dependency"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is BCNF?",
+    "options": ["Advanced normalization", "Basic", "None", "Error"],
+    "answer": "Advanced normalization"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is transaction?",
+    "options": ["Unit of work", "Data", "Table", "None"],
+    "answer": "Unit of work"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is ACID?",
+    "options": ["Transaction properties", "Data", "Table", "None"],
+    "answer": "Transaction properties"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is atomicity?",
+    "options": ["All or nothing", "Partial", "None", "Error"],
+    "answer": "All or nothing"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is consistency?",
+    "options": ["Valid state", "Invalid", "None", "Error"],
+    "answer": "Valid state"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is isolation?",
+    "options": ["Separate transactions", "Combine", "None", "Error"],
+    "answer": "Separate transactions"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is durability?",
+    "options": ["Permanent data", "Temporary", "None", "Error"],
+    "answer": "Permanent data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is lock?",
+    "options": ["Control access", "Delete", "Insert", "None"],
+    "answer": "Control access"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is deadlock?",
+    "options": ["Waiting forever", "Fast", "None", "Error"],
+    "answer": "Waiting forever"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is ER model?",
+    "options": ["Entity relationship model", "Database", "Table", "None"],
+    "answer": "Entity relationship model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is entity?",
+    "options": ["Real-world object", "Table", "Data", "None"],
+    "answer": "Real-world object"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is attribute?",
+    "options": ["Property", "Table", "Data", "None"],
+    "answer": "Property"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is relationship?",
+    "options": ["Association", "Table", "Data", "None"],
+    "answer": "Association"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cardinality?",
+    "options": ["Relationship count", "Data", "Table", "None"],
+    "answer": "Relationship count"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DDL?",
+    "options": ["Define data", "Manipulate", "Control", "None"],
+    "answer": "Define data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DML?",
+    "options": ["Manipulate data", "Define", "Control", "None"],
+    "answer": "Manipulate data"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is concurrency control?",
+    "options": ["Manage transactions", "Delete data", "Sort", "None"],
+    "answer": "Manage transactions"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is serializability?",
+    "options": ["Correct schedule", "Error", "None", "Delete"],
+    "answer": "Correct schedule"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is two-phase locking?",
+    "options": ["Locking protocol", "Delete", "Sort", "None"],
+    "answer": "Locking protocol"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is timestamp ordering?",
+    "options": ["Transaction ordering", "Delete", "Sort", "None"],
+    "answer": "Transaction ordering"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is recovery?",
+    "options": ["Restore data", "Delete", "Sort", "None"],
+    "answer": "Restore data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is log?",
+    "options": ["Record changes", "Delete", "Sort", "None"],
+    "answer": "Record changes"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is checkpoint?",
+    "options": ["Save state", "Delete", "Sort", "None"],
+    "answer": "Save state"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is shadow paging?",
+    "options": ["Recovery method", "Delete", "Sort", "None"],
+    "answer": "Recovery method"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is query optimization?",
+    "options": ["Improve query performance", "Delete", "Sort", "None"],
+    "answer": "Improve query performance"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is cost-based optimization?",
+    "options": ["Choose cheapest plan", "Delete", "Sort", "None"],
+    "answer": "Choose cheapest plan"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is B+ tree?",
+    "options": ["Index structure", "Table", "Data", "None"],
+    "answer": "Index structure"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is hash index?",
+    "options": ["Hash-based index", "Tree", "Table", "None"],
+    "answer": "Hash-based index"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is distributed DB?",
+    "options": ["Multiple locations", "Single", "None", "Error"],
+    "answer": "Multiple locations"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is replication?",
+    "options": ["Copy data", "Delete", "Sort", "None"],
+    "answer": "Copy data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is sharding?",
+    "options": ["Split database", "Copy", "Delete", "None"],
+    "answer": "Split database"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CAP theorem?",
+    "options": ["Consistency Availability Partition", "Control Access Protocol", "None", "Error"],
+    "answer": "Consistency Availability Partition"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is NoSQL?",
+    "options": ["Non-relational DB", "Relational", "None", "Error"],
+    "answer": "Non-relational DB"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is eventual consistency?",
+    "options": ["Delayed consistency", "Immediate", "None", "Error"],
+    "answer": "Delayed consistency"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is strong consistency?",
+    "options": ["Immediate consistency", "Delayed", "None", "Error"],
+    "answer": "Immediate consistency"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is materialized view?",
+    "options": ["Stored view", "Virtual", "None", "Error"],
+    "answer": "Stored view"
+  }
+]

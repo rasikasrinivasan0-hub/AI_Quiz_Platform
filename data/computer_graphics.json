@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is computer graphics?",
+    "options": ["Creating images using computers", "Programming", "Networking", "Database"],
+    "answer": "Creating images using computers"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which device displays graphics?",
+    "options": ["Monitor", "Keyboard", "Mouse", "Printer"],
+    "answer": "Monitor"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is pixel?",
+    "options": ["Smallest picture unit", "Large image", "Device", "Program"],
+    "answer": "Smallest picture unit"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is resolution?",
+    "options": ["Number of pixels", "Color", "Shape", "Device"],
+    "answer": "Number of pixels"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is color model?",
+    "options": ["Color representation", "Image", "Device", "None"],
+    "answer": "Color representation"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which color model is used in screens?",
+    "options": ["RGB", "CMYK", "HSV", "None"],
+    "answer": "RGB"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which color model is used in printing?",
+    "options": ["CMYK", "RGB", "HSV", "None"],
+    "answer": "CMYK"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is line?",
+    "options": ["Set of points", "Circle", "Polygon", "None"],
+    "answer": "Set of points"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is polygon?",
+    "options": ["Closed shape", "Line", "Point", "None"],
+    "answer": "Closed shape"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is 2D graphics?",
+    "options": ["Flat graphics", "3D", "Animation", "None"],
+    "answer": "Flat graphics"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is 3D graphics?",
+    "options": ["3D objects", "Flat", "Line", "None"],
+    "answer": "3D objects"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is rendering?",
+    "options": ["Generate image", "Delete", "Store", "None"],
+    "answer": "Generate image"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is frame?",
+    "options": ["Single image", "Video", "Animation", "None"],
+    "answer": "Single image"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is animation?",
+    "options": ["Sequence of frames", "Image", "Pixel", "None"],
+    "answer": "Sequence of frames"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is clipping?",
+    "options": ["Remove outside area", "Add area", "Delete image", "None"],
+    "answer": "Remove outside area"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is viewport?",
+    "options": ["Display area", "Image", "Pixel", "None"],
+    "answer": "Display area"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is window?",
+    "options": ["World coordinates area", "Screen", "Pixel", "None"],
+    "answer": "World coordinates area"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is transformation?",
+    "options": ["Change shape", "Delete", "Store", "None"],
+    "answer": "Change shape"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is translation?",
+    "options": ["Move object", "Rotate", "Scale", "None"],
+    "answer": "Move object"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is rotation?",
+    "options": ["Turn object", "Move", "Scale", "None"],
+    "answer": "Turn object"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is scaling?",
+    "options": ["Resize object", "Move", "Rotate", "None"],
+    "answer": "Resize object"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is reflection?",
+    "options": ["Mirror image", "Rotate", "Scale", "None"],
+    "answer": "Mirror image"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is shearing?",
+    "options": ["Slant shape", "Rotate", "Scale", "None"],
+    "answer": "Slant shape"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is homogeneous coordinates?",
+    "options": ["Extra coordinate", "2D only", "3D only", "None"],
+    "answer": "Extra coordinate"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Bresenham line algorithm?",
+    "options": ["Draw line efficiently", "Circle", "Polygon", "None"],
+    "answer": "Draw line efficiently"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DDA algorithm?",
+    "options": ["Line drawing", "Circle", "Polygon", "None"],
+    "answer": "Line drawing"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is midpoint circle algorithm?",
+    "options": ["Draw circle", "Line", "Polygon", "None"],
+    "answer": "Draw circle"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is scan line algorithm?",
+    "options": ["Fill polygon", "Draw line", "Circle", "None"],
+    "answer": "Fill polygon"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Z-buffer?",
+    "options": ["Depth handling", "Color", "Pixel", "None"],
+    "answer": "Depth handling"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is hidden surface removal?",
+    "options": ["Remove unseen parts", "Add parts", "Delete", "None"],
+    "answer": "Remove unseen parts"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is shading?",
+    "options": ["Add color effect", "Delete", "Store", "None"],
+    "answer": "Add color effect"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Gouraud shading?",
+    "options": ["Vertex shading", "Pixel shading", "None", "Error"],
+    "answer": "Vertex shading"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is Phong shading?",
+    "options": ["Pixel shading", "Vertex shading", "None", "Error"],
+    "answer": "Pixel shading"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is texture mapping?",
+    "options": ["Apply image on object", "Delete", "Store", "None"],
+    "answer": "Apply image on object"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is ray tracing?",
+    "options": ["Light simulation", "Draw line", "Fill", "None"],
+    "answer": "Light simulation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is anti-aliasing?",
+    "options": ["Smooth edges", "Sharpen", "Delete", "None"],
+    "answer": "Smooth edges"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is perspective projection?",
+    "options": ["3D to 2D view", "2D only", "None", "Error"],
+    "answer": "3D to 2D view"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is orthographic projection?",
+    "options": ["Parallel projection", "Perspective", "None", "Error"],
+    "answer": "Parallel projection"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is viewing pipeline?",
+    "options": ["Rendering steps", "Delete", "Store", "None"],
+    "answer": "Rendering steps"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is clipping window?",
+    "options": ["Visible region", "Invisible", "None", "Error"],
+    "answer": "Visible region"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is Cohen-Sutherland algorithm?",
+    "options": ["Line clipping", "Circle", "Polygon", "None"],
+    "answer": "Line clipping"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Liang-Barsky algorithm?",
+    "options": ["Line clipping", "Circle", "Polygon", "None"],
+    "answer": "Line clipping"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Sutherland-Hodgman algorithm?",
+    "options": ["Polygon clipping", "Line", "Circle", "None"],
+    "answer": "Polygon clipping"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Weiler-Atherton algorithm?",
+    "options": ["Polygon clipping", "Line", "Circle", "None"],
+    "answer": "Polygon clipping"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is back-face culling?",
+    "options": ["Remove back faces", "Add", "Delete", "None"],
+    "answer": "Remove back faces"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is illumination model?",
+    "options": ["Light calculation", "Color", "Pixel", "None"],
+    "answer": "Light calculation"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Lambert model?",
+    "options": ["Diffuse reflection", "Specular", "None", "Error"],
+    "answer": "Diffuse reflection"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Phong illumination?",
+    "options": ["Specular reflection", "Diffuse", "None", "Error"],
+    "answer": "Specular reflection"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is radiosity?",
+    "options": ["Global illumination", "Local", "None", "Error"],
+    "answer": "Global illumination"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is BSP tree?",
+    "options": ["Binary space partition", "Graph", "Table", "None"],
+    "answer": "Binary space partition"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is octree?",
+    "options": ["3D partitioning", "2D", "None", "Error"],
+    "answer": "3D partitioning"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is spline?",
+    "options": ["Smooth curve", "Line", "Circle", "None"],
+    "answer": "Smooth curve"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is Bezier curve?",
+    "options": ["Parametric curve", "Line", "Circle", "None"],
+    "answer": "Parametric curve"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is B-spline?",
+    "options": ["Smooth curve", "Line", "Circle", "None"],
+    "answer": "Smooth curve"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is fractal?",
+    "options": ["Self-similar pattern", "Line", "Circle", "None"],
+    "answer": "Self-similar pattern"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is GPU?",
+    "options": ["Graphics processor", "CPU", "Memory", "None"],
+    "answer": "Graphics processor"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is OpenGL?",
+    "options": ["Graphics API", "Database", "OS", "None"],
+    "answer": "Graphics API"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is DirectX?",
+    "options": ["Graphics API", "Database", "OS", "None"],
+    "answer": "Graphics API"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is shader?",
+    "options": ["GPU program", "CPU program", "None", "Error"],
+    "answer": "GPU program"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is rasterization?",
+    "options": ["Convert to pixels", "Vector", "None", "Error"],
+    "answer": "Convert to pixels"
+  }
+]

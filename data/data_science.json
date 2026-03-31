@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is Data Science?",
+    "options": ["Extract insights from data", "Programming only", "Database only", "Networking"],
+    "answer": "Extract insights from data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which language is popular for Data Science?",
+    "options": ["Python", "HTML", "CSS", "C"],
+    "answer": "Python"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data?",
+    "options": ["Raw facts", "Processed info", "Program", "Code"],
+    "answer": "Raw facts"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is information?",
+    "options": ["Processed data", "Raw data", "Program", "Code"],
+    "answer": "Processed data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is dataset?",
+    "options": ["Collection of data", "Single data", "Program", "Code"],
+    "answer": "Collection of data"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is feature?",
+    "options": ["Input variable", "Output", "Model", "Algorithm"],
+    "answer": "Input variable"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is label?",
+    "options": ["Output variable", "Input", "Model", "Algorithm"],
+    "answer": "Output variable"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is CSV?",
+    "options": ["Comma separated values", "Code", "Program", "Database"],
+    "answer": "Comma separated values"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which library is for data analysis?",
+    "options": ["Pandas", "NumPy", "Matplotlib", "All"],
+    "answer": "All"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is NumPy?",
+    "options": ["Numerical library", "Database", "Network", "OS"],
+    "answer": "Numerical library"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is Pandas?",
+    "options": ["Data analysis library", "Database", "Network", "OS"],
+    "answer": "Data analysis library"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is visualization?",
+    "options": ["Graphical data representation", "Data storage", "Processing", "Cleaning"],
+    "answer": "Graphical data representation"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which library for plotting?",
+    "options": ["Matplotlib", "NumPy", "Pandas", "SciPy"],
+    "answer": "Matplotlib"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is mean?",
+    "options": ["Average", "Median", "Mode", "Range"],
+    "answer": "Average"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is median?",
+    "options": ["Middle value", "Average", "Mode", "Range"],
+    "answer": "Middle value"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is mode?",
+    "options": ["Most frequent value", "Average", "Median", "Range"],
+    "answer": "Most frequent value"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is outlier?",
+    "options": ["Unusual data point", "Normal data", "Average", "Median"],
+    "answer": "Unusual data point"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is missing data?",
+    "options": ["Null values", "Complete data", "Average", "Median"],
+    "answer": "Null values"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is data cleaning?",
+    "options": ["Fix/remove errors", "Store data", "Visualize", "Analyze"],
+    "answer": "Fix/remove errors"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is dataset split?",
+    "options": ["Train and test", "Store data", "Delete", "Sort"],
+    "answer": "Train and test"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is machine learning?",
+    "options": ["Learning from data", "Programming", "Database", "Network"],
+    "answer": "Learning from data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is supervised learning?",
+    "options": ["With labels", "Without labels", "Random", "None"],
+    "answer": "With labels"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is unsupervised learning?",
+    "options": ["Without labels", "With labels", "Random", "None"],
+    "answer": "Without labels"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is regression?",
+    "options": ["Predict continuous value", "Classify", "Cluster", "Sort"],
+    "answer": "Predict continuous value"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is classification?",
+    "options": ["Predict category", "Continuous", "Cluster", "Sort"],
+    "answer": "Predict category"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is clustering?",
+    "options": ["Group data", "Predict", "Classify", "Sort"],
+    "answer": "Group data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is overfitting?",
+    "options": ["Too specific model", "General model", "Perfect model", "None"],
+    "answer": "Too specific model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is underfitting?",
+    "options": ["Too simple model", "Complex model", "Perfect", "None"],
+    "answer": "Too simple model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is accuracy?",
+    "options": ["Correct predictions ratio", "Error", "Loss", "None"],
+    "answer": "Correct predictions ratio"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is precision?",
+    "options": ["Correct positive ratio", "Accuracy", "Recall", "None"],
+    "answer": "Correct positive ratio"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is recall?",
+    "options": ["True positive rate", "Accuracy", "Precision", "None"],
+    "answer": "True positive rate"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is F1-score?",
+    "options": ["Balance of precision & recall", "Accuracy", "Error", "None"],
+    "answer": "Balance of precision & recall"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cross-validation?",
+    "options": ["Model evaluation", "Training", "Testing", "None"],
+    "answer": "Model evaluation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is normalization?",
+    "options": ["Scale data", "Delete", "Sort", "Encrypt"],
+    "answer": "Scale data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is standardization?",
+    "options": ["Mean=0 variance=1", "Scale", "Delete", "Sort"],
+    "answer": "Mean=0 variance=1"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is feature engineering?",
+    "options": ["Create features", "Delete data", "Sort", "Store"],
+    "answer": "Create features"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is model?",
+    "options": ["Learning function", "Data", "Program", "None"],
+    "answer": "Learning function"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is training?",
+    "options": ["Learn from data", "Test", "Deploy", "None"],
+    "answer": "Learn from data"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is testing?",
+    "options": ["Evaluate model", "Train", "Deploy", "None"],
+    "answer": "Evaluate model"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is bias?",
+    "options": ["Error from assumptions", "Variance", "Data", "None"],
+    "answer": "Error from assumptions"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is variance?",
+    "options": ["Model sensitivity", "Bias", "Error", "None"],
+    "answer": "Model sensitivity"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is bias-variance tradeoff?",
+    "options": ["Balance error", "Accuracy", "Precision", "None"],
+    "answer": "Balance error"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is gradient descent?",
+    "options": ["Optimization algorithm", "Clustering", "Sorting", "None"],
+    "answer": "Optimization algorithm"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is loss function?",
+    "options": ["Measure error", "Accuracy", "Precision", "None"],
+    "answer": "Measure error"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is confusion matrix?",
+    "options": ["Performance table", "Data table", "Graph", "None"],
+    "answer": "Performance table"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is ROC curve?",
+    "options": ["Performance graph", "Data graph", "Chart", "None"],
+    "answer": "Performance graph"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is AUC?",
+    "options": ["Area under curve", "Graph", "Data", "None"],
+    "answer": "Area under curve"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is PCA?",
+    "options": ["Dimensionality reduction", "Clustering", "Sorting", "None"],
+    "answer": "Dimensionality reduction"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is k-means?",
+    "options": ["Clustering algorithm", "Classification", "Regression", "None"],
+    "answer": "Clustering algorithm"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is decision tree?",
+    "options": ["Tree-based model", "Graph", "Table", "None"],
+    "answer": "Tree-based model"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is random forest?",
+    "options": ["Multiple trees", "Single tree", "Graph", "None"],
+    "answer": "Multiple trees"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SVM?",
+    "options": ["Classification algorithm", "Regression", "Clustering", "None"],
+    "answer": "Classification algorithm"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is neural network?",
+    "options": ["Deep learning model", "Graph", "Table", "None"],
+    "answer": "Deep learning model"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is deep learning?",
+    "options": ["Neural networks", "ML", "AI", "None"],
+    "answer": "Neural networks"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is NLP?",
+    "options": ["Natural language processing", "Network", "Protocol", "None"],
+    "answer": "Natural language processing"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is time series?",
+    "options": ["Time-based data", "Static data", "Graph", "None"],
+    "answer": "Time-based data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is anomaly detection?",
+    "options": ["Find unusual data", "Normal data", "Sort", "None"],
+    "answer": "Find unusual data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is ensemble learning?",
+    "options": ["Combine models", "Single model", "Graph", "None"],
+    "answer": "Combine models"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is hyperparameter tuning?",
+    "options": ["Optimize model settings", "Training", "Testing", "None"],
+    "answer": "Optimize model settings"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is pipeline?",
+    "options": ["Data processing workflow", "Graph", "Table", "None"],
+    "answer": "Data processing workflow"
+  }
+]

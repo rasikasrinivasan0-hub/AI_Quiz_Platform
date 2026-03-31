@@ -1,0 +1,364 @@
+[
+  {
+    "difficulty": "easy",
+    "question": "What is computer architecture?",
+    "options": ["Design of computer system", "Programming language", "Operating system", "Network protocol"],
+    "answer": "Design of computer system"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Who proposed Von Neumann architecture?",
+    "options": ["John von Neumann", "Alan Turing", "Charles Babbage", "Dennis Ritchie"],
+    "answer": "John von Neumann"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which unit performs calculations?",
+    "options": ["ALU", "CU", "Memory", "Register"],
+    "answer": "ALU"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which unit controls operations?",
+    "options": ["Control Unit", "ALU", "Memory", "Register"],
+    "answer": "Control Unit"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is CPU?",
+    "options": ["Central Processing Unit", "Control Program Unit", "Central Program Unit", "Computer Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which memory is fastest?",
+    "options": ["Register", "RAM", "ROM", "Cache"],
+    "answer": "Register"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which memory is volatile?",
+    "options": ["RAM", "ROM", "Hard disk", "SSD"],
+    "answer": "RAM"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which memory is non-volatile?",
+    "options": ["ROM", "RAM", "Cache", "Register"],
+    "answer": "ROM"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is cache memory?",
+    "options": ["High-speed memory", "Secondary storage", "Main memory", "Input device"],
+    "answer": "High-speed memory"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which register holds instruction?",
+    "options": ["IR", "PC", "MAR", "MDR"],
+    "answer": "IR"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which register holds next instruction address?",
+    "options": ["PC", "IR", "MAR", "MDR"],
+    "answer": "PC"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is bus?",
+    "options": ["Communication pathway", "Memory", "Register", "Instruction"],
+    "answer": "Communication pathway"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which bus carries data?",
+    "options": ["Data bus", "Address bus", "Control bus", "System bus"],
+    "answer": "Data bus"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which bus carries address?",
+    "options": ["Address bus", "Data bus", "Control bus", "System bus"],
+    "answer": "Address bus"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is clock speed?",
+    "options": ["Processor speed", "Memory size", "Bus width", "Cache size"],
+    "answer": "Processor speed"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is instruction?",
+    "options": ["Command to CPU", "Data", "Memory", "Register"],
+    "answer": "Command to CPU"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is opcode?",
+    "options": ["Operation code", "Operand", "Address", "Instruction"],
+    "answer": "Operation code"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is operand?",
+    "options": ["Data to operate", "Operation code", "Instruction", "Register"],
+    "answer": "Data to operate"
+  },
+  {
+    "difficulty": "easy",
+    "question": "Which component stores data temporarily?",
+    "options": ["Register", "Hard disk", "ROM", "SSD"],
+    "answer": "Register"
+  },
+  {
+    "difficulty": "easy",
+    "question": "What is memory hierarchy?",
+    "options": ["Levels of memory", "Single memory", "Network", "Bus"],
+    "answer": "Levels of memory"
+  },
+
+  {
+    "difficulty": "medium",
+    "question": "What is pipelining?",
+    "options": ["Parallel instruction execution", "Sequential execution", "Memory allocation", "Data transfer"],
+    "answer": "Parallel instruction execution"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is throughput?",
+    "options": ["Instructions per unit time", "Clock speed", "Memory size", "Bus width"],
+    "answer": "Instructions per unit time"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is latency?",
+    "options": ["Delay time", "Speed", "Memory", "Throughput"],
+    "answer": "Delay time"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is RISC?",
+    "options": ["Reduced Instruction Set Computer", "Random Instruction Set", "Register Instruction System", "Rapid Instruction Set"],
+    "answer": "Reduced Instruction Set Computer"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is CISC?",
+    "options": ["Complex Instruction Set Computer", "Central Instruction System", "Common Instruction Set", "Core Instruction System"],
+    "answer": "Complex Instruction Set Computer"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which addressing mode uses constant value?",
+    "options": ["Immediate", "Direct", "Indirect", "Register"],
+    "answer": "Immediate"
+  },
+  {
+    "difficulty": "medium",
+    "question": "Which addressing uses memory address?",
+    "options": ["Direct", "Immediate", "Register", "Implied"],
+    "answer": "Direct"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cache hit?",
+    "options": ["Data found in cache", "Data not found", "Error", "Miss"],
+    "answer": "Data found in cache"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is cache miss?",
+    "options": ["Data not found in cache", "Data found", "Error", "Hit"],
+    "answer": "Data not found in cache"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is virtual memory?",
+    "options": ["Extension of RAM", "Cache", "Register", "ROM"],
+    "answer": "Extension of RAM"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is page?",
+    "options": ["Fixed-size memory block", "Variable block", "Register", "Instruction"],
+    "answer": "Fixed-size memory block"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is segmentation?",
+    "options": ["Variable-size memory allocation", "Fixed-size", "Cache", "Register"],
+    "answer": "Variable-size memory allocation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is DMA?",
+    "options": ["Direct Memory Access", "Data Memory Allocation", "Dynamic Memory Access", "Direct Machine Access"],
+    "answer": "Direct Memory Access"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is interrupt?",
+    "options": ["Signal to CPU", "Data", "Instruction", "Memory"],
+    "answer": "Signal to CPU"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is instruction cycle?",
+    "options": ["Fetch-decode-execute", "Store", "Load", "Transfer"],
+    "answer": "Fetch-decode-execute"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is multiprocessor?",
+    "options": ["Multiple CPUs", "Single CPU", "No CPU", "GPU"],
+    "answer": "Multiple CPUs"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is superscalar?",
+    "options": ["Multiple instructions per cycle", "Single instruction", "Slow execution", "Memory"],
+    "answer": "Multiple instructions per cycle"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is branch prediction?",
+    "options": ["Predict instruction path", "Memory allocation", "Sorting", "Indexing"],
+    "answer": "Predict instruction path"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is clock cycle?",
+    "options": ["Time for one operation", "Memory size", "Bus width", "Register"],
+    "answer": "Time for one operation"
+  },
+  {
+    "difficulty": "medium",
+    "question": "What is instruction format?",
+    "options": ["Structure of instruction", "Data", "Memory", "Register"],
+    "answer": "Structure of instruction"
+  },
+
+  {
+    "difficulty": "hard",
+    "question": "What is Amdahl’s Law?",
+    "options": ["Performance improvement limit", "Memory law", "Bus law", "Cache law"],
+    "answer": "Performance improvement limit"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is CPI?",
+    "options": ["Cycles per instruction", "Clock per instruction", "Cache per instruction", "Core per instruction"],
+    "answer": "Cycles per instruction"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is IPC?",
+    "options": ["Instructions per cycle", "Input per cycle", "Instruction per cache", "Input per core"],
+    "answer": "Instructions per cycle"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is hazard in pipeline?",
+    "options": ["Execution conflict", "Memory", "Register", "Bus"],
+    "answer": "Execution conflict"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which hazard is due to data dependency?",
+    "options": ["Data hazard", "Control hazard", "Structural hazard", "None"],
+    "answer": "Data hazard"
+  },
+  {
+    "difficulty": "hard",
+    "question": "Which hazard due to branching?",
+    "options": ["Control hazard", "Data hazard", "Structural hazard", "None"],
+    "answer": "Control hazard"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is structural hazard?",
+    "options": ["Resource conflict", "Data conflict", "Branch conflict", "None"],
+    "answer": "Resource conflict"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is write-back policy?",
+    "options": ["Write to cache first", "Write to memory", "Delete data", "Read only"],
+    "answer": "Write to cache first"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is write-through?",
+    "options": ["Write to cache and memory", "Cache only", "Memory only", "Delete"],
+    "answer": "Write to cache and memory"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is cache coherence?",
+    "options": ["Consistency of cache data", "Memory size", "Bus width", "Clock speed"],
+    "answer": "Consistency of cache data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is SIMD?",
+    "options": ["Single Instruction Multiple Data", "Single Data Multiple Instruction", "Multiple Data Single Instruction", "None"],
+    "answer": "Single Instruction Multiple Data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is MIMD?",
+    "options": ["Multiple Instruction Multiple Data", "Single Instruction Multiple Data", "Single Data Multiple Instruction", "None"],
+    "answer": "Multiple Instruction Multiple Data"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is little endian?",
+    "options": ["LSB stored first", "MSB first", "Random", "None"],
+    "answer": "LSB stored first"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is big endian?",
+    "options": ["MSB stored first", "LSB first", "Random", "None"],
+    "answer": "MSB stored first"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is TLB?",
+    "options": ["Translation Lookaside Buffer", "Temporary Local Buffer", "Table Lookup Buffer", "Transfer Logic Buffer"],
+    "answer": "Translation Lookaside Buffer"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is page fault?",
+    "options": ["Page not in memory", "Page in memory", "Cache hit", "Cache miss"],
+    "answer": "Page not in memory"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is microprogramming?",
+    "options": ["Control unit design", "Memory design", "Bus design", "Register design"],
+    "answer": "Control unit design"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is instruction-level parallelism?",
+    "options": ["Parallel execution of instructions", "Sequential", "Memory", "Bus"],
+    "answer": "Parallel execution of instructions"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is speculative execution?",
+    "options": ["Execute predicted path", "Stop execution", "Sequential execution", "Memory allocation"],
+    "answer": "Execute predicted path"
+  },
+  {
+    "difficulty": "hard",
+    "question": "What is multicore processor?",
+    "options": ["Multiple cores in CPU", "Single core", "No core", "GPU"],
+    "answer": "Multiple cores in CPU"
+  }
+]
